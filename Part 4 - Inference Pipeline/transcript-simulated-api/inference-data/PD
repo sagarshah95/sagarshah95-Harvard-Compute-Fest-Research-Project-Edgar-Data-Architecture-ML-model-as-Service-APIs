@@ -1,0 +1,639 @@
+PagerDuty, Inc. (PD) CEO Jennifer Tejada on Q4 2021 Results - Earnings Call Transcript
+Mar. 17, 2021 6:39 PM ETPagerDuty, Inc. (PD)
+Q4: 2021-03-17 Earnings Summary
+EPS of -$0.07 beats by $0.04 | Revenue of $59.28M (29.09% Y/Y) beats by $1.80M
+PagerDuty, Inc. (NYSE:PD) Q4 2021 Earnings Conference Call March 17, 2021 5:00 PM ET
+
+Company Participants
+
+Christine Cloonan - Investor Relations
+
+Jennifer Tejada - Chairperson & Chief Executive Officer
+
+Howard Wilson - Chief Financial Officer
+
+Conference Call Participants
+
+Matt Hedberg - RBC Capital Markets
+
+Bhavan Suri - William Blair
+
+Rishi Jaluria - DA Davidson
+
+Derrick Wood - Cowen & Company
+
+Sterling Auty - JPMorgan
+
+Sanjit Singh - Morgan Stanley
+
+Chad Bennett - Craig-Hallum
+
+Kingsley Crane - Berenberg
+
+Operator
+
+Welcome everybody. Thank you for joining us today and good day to you. We're just about to get started. Before we do, just a little bit of housekeeping to let you know how the program runs today. We will have presentations from both PagerDuty CEO and CFO and then move into a Q&A portion. That Q&A portion will be invitation to our group, and we have those analysts on as analysts in today's session.
+
+So, we're ready to get started. I'm going to turn it over to Christine Cloonan to get us started here. Christine, you can take it away.
+
+Christine Cloonan
+
+Great. Thank you. Good afternoon and thank you for joining us to discuss PagerDuty's Fourth Quarter and Fiscal 2021. With me on today's call are Jennifer Tejada, PagerDuty's Chairperson and Chief Executive Officer; and Howard Wilson, our Chief Financial Officer.
+
+Statements made on today's call will include forward-looking statements, which involve known and unknown risks and uncertainties that may cause our actual results, performance, or achievements to be materially different from those expected or implied by the forward-looking statements. Forward-looking statements represent our management's belief and assumptions only as of the date such statements are made, and we undertake no obligation to update these.
+
+During today's call, we will discuss non-GAAP financial measures, which are in addition to, and not a substitute for, or superior to, measures of financial performance prepared in accordance with GAAP. There are a number of limitations related to the use of these non-GAAP financial measures versus their closest GAAP equivalents.
+
+For example, other companies may calculate non-GAAP financial measures differently or may use other measures to evaluate their performance, all of which could reduce the usefulness of our non-GAAP financial measures as a tool for comparison.
+
+A reconciliation between GAAP and non-GAAP financial measures is available in our earnings release. Further information on these and other factors that could affect the company's financial results are included in filings we make with the Securities and Exchange Commission.
+
+With that, I will turn the call over to Jennifer.
+
+Jennifer Tejada
+
+Thank you, Christine. And thank you all for joining us today. Q4 was an outstanding quarter for PagerDuty. We added $59 million in revenue, reaccelerating growth sequentially to 29% year-over-year as our momentum built to close out an unparalleled year.
+
+Through a combination of better macro conditions, secular tailwinds, like digital acceleration, cloud adoption, and DevOps transformation, and improved go-to-market execution, we ended fiscal 2021 with $214 million in revenue, up 28% over last year. I'm incredibly appreciative of our customers and our partners for their loyalty and trust and grateful to the PagerDuty's team, whose resilience, commitment, and customer devotion over the last 12 months was both inspiring and delivered a great outcome for our stakeholders.
+
+Importantly, Q4 was a strong record-setting quarter for PagerDuty. We closed the largest multiyear expansion in our history, signed our first $1 million contract in EMEA, expanded our first five-year contract, and achieved record transaction growth in the mid-market. Our results validate our strategic focus and leadership position in the enterprise segment, where dollar-based net retention accelerated above 125%, and overall dollar-based net retention expanded sequentially to 121%, which is in the range we anticipate for fiscal 2022.
+
+Digital operations management plan accounted for 70% of total net new ARR in the quarter as customers upgraded to advance their operational maturity. For the year, uptake of the digital operations management plan doubled, now over 20% of our total ARR. The pandemic accelerated the digitization of most business models from healthcare to telehealth, retail to e-commerce and banking to fintech. The need for businesses to develop the agility to respond to emerging consumer trends, competitive threats and potential disruption is not going away.
+
+While PagerDuty was founded on this premise, it's become increasingly clear that we are unique in our ability to help customers advance their operational maturity. PagerDuty's modern cloud-native operations platform has become the central nervous system for digital modern businesses. It's designed specifically for mission-critical emergent work across distributed teams.
+
+Traditional workflow and observability solutions fall short in orchestrating the immediate action and proactive prevention of customer and business impacts, now required by the real-time nature of our global digital economy, which is clearly here to stay. Our customers have quickly learned that in a world of digital everything, modern Dev and IT teams must be prepared for anything.
+
+PagerDuty’s 2020 global developer and IT operations report uncover the yearly 60% of respondents found root cause harder to identify due to increasing app and infrastructure monitoring complexity. And nearly 70% reported struggling with an increase in alert noise on a daily basis. Teams are more distributed than ever, managing increasingly complex hybrid cloud ecosystems, with more persistent events caused by a growing volume of security threats, higher-velocity deployment and aging legacy architectures.
+
+Our scope within organizations has expanded as more teams engaged in digital operations, usually beginning with DevOps moving to ITOps and increasingly deploying across enterprises to include customer service, security and beyond. Over the course of the year, we saw an increase in transformative work with our customers, where we've become critical infrastructure as teams' increased focus on resilience and expanded to new use cases that address unpredictable, unstructured and urgent opportunities that can make or break the brand experience.
+
+One example of this is a North American grocery chain, which sought to efficiently notify customers and employees of food recalls. They rolled out the digital transformation program on PagerDuty's platform to immediately inform 50,000 stakeholders, including checkout staff in the event of a safety incident, increasing customer safety, satisfaction and trust.
+
+Our go-to-market teams executed well, improving ramp and productivity. During the fourth quarter, trailing 12 months billings grew 29%, driven by strong expansion, particularly in the mid-market and enterprise. Our growth was also fueled by a favorable competitive environment. Customers investing over $1 million on PagerDuty grew by 44%, with 26 large enterprises now spending over $1 million with PagerDuty.
+
+We now serve more than 60% of the Fortune 100, over 40% of the Fortune 500 and more than 700,000 users on our platform, up 40% year-on-year. Many of the expansions we saw in the quarter included early renewals as customers added users and upgraded plans in order to execute on their digital transformation and cloud migration initiatives more quickly by leveraging AIOps.
+
+Mid-market momentum was also very strong with our commercial team setting a new bookings record, growing transaction volumes by 48% versus last year. We saw momentum in APJ and EMEA and announced today our first EU data center to support growing demand in the region.
+
+Once again, we saw strong expansion in the quarter with many of the largest, fastest-growing software companies in the world, like SAP, Intuit, Datadog and Autodesk. Our leadership in financial services also gained momentum. Morgan Stanley expanded its long-term relationship with PagerDuty, investing in thousands of licenses on our digital operations platform. Another Global 100 investment bank steadily expanded over the last two years on our digital operations plan, demonstrating the strength of our long-term relationship and reliable customer expansion.
+
+The CIO and CTO championed one of the largest expansions in Q4 for a total of 8,000 users in a three-year multimillion-dollar contract as they adopt DevOps and full-service ownership and transitioned to the cloud with a 'you ship it, you own it' mindset. They expect to realize $10 million of annual benefit from PagerDuty, as they retire their homegrown systems and improve efficiencies across the organization.
+
+One of our competitive advantages is the diversity of our customer base and leadership across verticals. During the quarter, we landed and expanded with several energy customers, where PagerDuty is literally keeping the lights on.
+
+One is a major Northeast utility that developed a web app to provide their consumers with winter outage information and service updates. PagerDuty replaced their in-house on-call management solution and was deployed to the entire infrastructure, IT and development organization, with other business groups expected to adopt PagerDuty in the future.
+
+Similarly, a new Fortune 500 customer that provides electricity for 3 million customers in the Midwest adopted PagerDuty to modernize their operations by reducing manual processes, which contributed to poor customer outcomes. They're also using PagerDuty to automate time-critical workflows and more effectively measure and improve KPIs. They anticipate they'll realize a 20% reduction in labor costs within customer support and a three-month payback period.
+
+While 2020 was uniquely challenging, it also created unique opportunities. Over the course of the year, we deepened our competitive moat on several fronts. We advanced our platform value proposition with the acquisition of Rundeck, bringing machine-based automation and save self-healing to incident response and other use cases like IT, DevOps and security.
+
+Carrefour Financial Solutions Brazil, the financial services arm of the Fortune 500 global retailer, adopted PagerDuty and Rundeck to anticipate problems and automate incident response through self-healing. With over 10,000 employees, Carrefour aims to accelerate their digital transformation efforts while reducing costs. They turned to us to improve the quality of their service across their IT, intra, monitoring and service teams in order to deliver increasingly intuitive digital banking experiences to their customers.
+
+Another large multinational financial services company adopted Rundeck during the year, to automate and standardize on its core financial operations across six data centers. The bank's initial Rundeck users started on our open-source offering then scaled to the paid enterprise plan. Following their initial deployment, the bank expanded PagerDuty and Rundeck globally to manage 24,000 systems substantially reducing labor costs and enhancing audit tracing capabilities.
+
+During the year, customers adopted PagerDuty beyond incident response to service, to security and customer service, where users grew 56% and 40%, respectively. HashiCorp, LegalZoom, Discovery Communications and Slack use PagerDuty for customer service.
+
+Slack's customer service agents use our platform for full case ownership, escalating customer-facing issues to the right subject matter experts or developers, so that they can be resolved quickly.
+
+We continue to add to our robust API-based integration ecosystem, accelerating our network effect and cementing our position as the hub for digital operations and incident detection. We continue to expand our ecosystem in the fourth quarter, now connecting with over 530 integrations, including change event partners like Buildkite, Gitlab and Jenkins and security partners like JFrog. Integrations enable seamless work across platforms and teams when seconds matter.
+
+During the year, we distanced our innovation based lead in developer-centric incident response and management, broadening our AIOps solution with significant enhancements to service directory, change management, incident insight in Slack and even more bidirectional chat features in Microsoft Teams and Zoom. ARR from Event Intelligence grew almost 160% over the previous year.
+
+New releases in the fourth quarter included automation, self-remediation and deeper customer service integrations. We launched change impact mapping, which allows developers to easily identify code changes that impact their services and more quickly resolve incidents. This is a game changer for customers, because according to Forrester, change events cause roughly 80% of service disruptions.
+
+Our deep integrations with Buildkite for CICD and Microsoft GitHub and GitLab, the largest repositories for source code, make these new capabilities even richer. We launched Version 3 of our Zendesk integration, linking Zendesk events to PagerDuty incidents and synchronizing incident priority, details and escalations from across both platforms instantly.
+
+PagerDuty's resilience and ROI is incomparable. As the accelerated digital transformation and society increased reliance on the Internet to learn, work and live, tested our platform, the platform delivered. In 2021, we processed 41 billion events and API requests, yet improved our customers' average resolution time by 20%, while sustaining four 9s of availability and notification transit times.
+
+In the last year, our customers became even more reliant on our platform in the face of a challenging business environment, along with digital acceleration. We believe this will lead to ongoing reliable expansion with our customers. According to IDC, PagerDuty's enterprise customers achieved an incredible 800% return on investment over three years, a two-month payback period and an average of $3.5 million in savings annually by increasing efficiency and productivity within our organizations through facilitating autonomy and service ownership amongst users.
+
+Reduced time spent on issues within the incident life cycle led to 27% more productive DevOps teams, 18% productivity improvements for IT and infra team and 10% improvements for customer support. This sets us apart from less modern platforms that require millions in deployment costs and multiyear payback, self-service, ease of use and quick time-to-value tenants of the PagerDuty platform that developers love and expect.
+
+As our reach expands to employees across the enterprise, our in-app experience becomes even more important. During the fourth quarter, we welcomed Sean Scott, our first Chief Product Officer. Sean is a product and e-commerce expert, having spent over 10 years leading the teams responsible for Amazon.com's home and product pages. Most recently, he built the robotics, hardware and software teams, responsible for developing Amazon's fully electric autonomous delivery system called Scout.
+
+Sean's consumer product experience will help us to continue to delight our users and accelerate our business through product-led growth. His background dovetails perfectly with our history of growth and innovation through seamless, fast time-to-value, user-eccentric products. I'm excited to scale our platform and innovation to new use cases under Sean's leadership.
+
+We are both confident and optimistic about FY 2022, as we see the acceleration in secular tailwinds, cloud migration, DevOps transformation and digital acceleration continuing over the long term. IDC predicts investment in digital transformation will be $2.3 trillion by 2023, almost double today's spend.
+
+The pandemic helped the market, especially business leaders, understand the mission-critical nature of digital operations, driving more strategic engagements across all of our segments. If anything, our total addressable market has grown. And as markets reopen, we expect to benefit from industries like travel, hospitality, entertainment, transportation and from small and medium businesses as they recover.
+
+We are firmly established as the system for engagement for modern businesses and essential infrastructure for the most important, most innovative brands in the world. Our integration ecosystem, deep proprietary data set and viral network effect all position us to continue to accelerate growth.
+
+I'm incredibly proud of our progress in FY 2021, and I'm bullish about the future as the market and macro trends meet us. I'm grateful to be part of a leadership team and company that both stands for equality and programmatically invest to achieve it in our company and in the industry.
+
+In FY 2021, our inclusion, diversity and equity efforts resulted in improved access, representation, pay equity and greater career opportunities. We continued investment in volunteer support for racial and social equity and inclusive leadership development.
+
+To further strengthen inclusive hiring, we launched partnerships with two historically black colleges and universities, North Carolina A&T and Alabama A&M and two Hispanic serving institutions, Florida International University and the University of Houston.
+
+Our Board of Directors is among the most balanced in the tech industry, representing the diverse communities we serve. In Q4, we welcomed our newest Director, Bonita Stewart. Bonita currently serves as the Vice President of Global Partnerships at Google, and brings decades of experience in marketing and strategic partnerships, which will serve us well as we develop our brand, our market position and our partner ecosystem.
+
+Next week, we're releasing our first social impact report, building on our diversity report published last September, which outlines our progress and underscores the ongoing work we will continue to do. PagerDuty employees are at the heart of our social impact, their talent, passion and business expertise extend well-beyond the workplace.
+
+During the year, 93% of our employees gave back community service or financial donations, volunteering several thousand hours and donating to support 110 nonprofit organizations globally. We deployed over $1 million in grants through the PagerDuty.org Fund. As we celebrate Black History Month and International Women's Day, and stand with the Black and Asian communities against hate and violence, I implore every leader and leadership team to join PagerDuty in allyship in challenging bias and systemic racism and in architecting a more equitable and accessible industry and community.
+
+With that, I'll turn the call over to Howard.
+
+Howard Wilson
+
+Thank you, Jen. We are delighted with our fourth quarter results and confident and optimistic about the outlook for full year 2022. We outperformed across the board in the quarter. Our revenue grew 29% year-over-year to $59 million, a solid beach on the high end of our guidance. Expansion within the enterprise and mid-market segment where our customers expanded into new use cases added new teams and upgraded to our digital operations offering drove this revenue performance.
+
+Our full year revenue of $214 million grew 28% versus a year ago as our sales execution and momentum in the back half of the year delivered a strong finish to the year. Scaling efficiencies and thoughtful capital management saw our Q4 non-GAAP EPS improved well-ahead of guidance at negative $0.07 per share, a $0.04 each. For the full year, our non-GAAP EPS was negative $0.24 per share, also ahead of our guidance.
+
+Non-GAAP gross margin remained best-in-class at above 85% for both the quarter and the full year, the high end of our target range, consistent with where it has been for the last four quarters.
+
+As Jen highlighted, PagerDuty has become essential infrastructure, enabling our customers' digital initiatives. Consistent customer expansion proves this. Once again, approximately one-third of our enterprise customers expanded with us for the eighth consecutive quarter.
+
+Additionally, adoption of our digital operations plan is growing, accounting for 70% of net new ARR in Q4. Our enterprise momentum drove year-over-year growth of 34% in customer spending more than $500,000 and 44% in customers spending more than $1 million. All of this reaccelerated dollar-based net retention, which increased to 121%. Taken alone, enterprise dollar-based net retention accelerated to above 125%.
+
+Looking ahead to fiscal year 2022, we expect dollar-based net retention to vary by quarter in a range of 118% to 124%. We continue to penetrate the enterprise segment across multiple industries. As of the end of the quarter, we serve over 60% of the Fortune 100 and over 40% of the Fortune 500. Within the Fortune 500, we serve 90% of media, 73% of technology, 33% of financial services, and 52% of retail companies. Our leadership in financial services has expanded significantly, with ARR up 150% over last year in the Fortune 500, and by over 40% of financial services as a whole.
+
+While we are seeing the strength in enterprise and mid-market, we are seeing good momentum in SMB. And with the continued success of our free offering, grew the number of companies, both paid and free by over 20% year-over-year.
+
+Early renewals, including several large multiyear enterprise deals, drove an uptick in quarterly billings to 41% growth year-over-year. Given the fluctuations of quarterly billings, we focus on trailing 12 months billings, which grew 29% year-over-year.
+
+Our remaining performance obligations, which grew 59% from the same period a year ago, reflect momentum in multiyear deals, particularly from the enterprise. As more of our business comes from the enterprise, the shift to term contracts continues with 87% of our revenue versus 83% a year ago. At above 95%, we continue to have industry-leading renewal rates.
+
+Before turning to operating expenses, I would like to highlight the robust growth in our international markets. Revenue grew 34% year-over-year to total 24% of our revenue. Despite challenging macro conditions in Europe, our EMEA region full year revenue grew at over 40% for the third year. We continue to invest to expand our reach internationally. And today, we announced we are offering European data hosting beginning this summer to support our EMEA customers.
+
+We have capitalized expenses in fiscal year 2021 in connection with this project and expect to begin amortizing these expenses into the income statement in the second quarter of fiscal 2022 once we are live.
+
+I will now turn to the detailed non-GAAP financial results. As a reminder, a reconciliation between GAAP and non-GAAP results is available in our earnings release. For the full year, operating expenses were $204 million compared to $171 million from a year ago as we continue to invest in the business. For the quarter, operating expenses were $56 million compared to $44 million in the prior period. This is a 28% increase, primarily due to investments in our go-to-market strategy, offset by COVID-related savings due to reduced travel and office-related costs.
+
+Research and development expenses were $14 million compared to $12 million in the same period a year ago, a 14% increase. This continues our investment in innovating on our platform, building on our scalability, reliability and security. We expect to accelerate the investment into fiscal year 2022, with specific focus on solutions for the enterprise, our AI opts automation offerings and use case expansion.
+
+Sales and marketing expenses were $13 million or 51% of revenue for the quarter compared to 48% of revenue in the prior year. We have been successful redeploying the in-person event budgets to virtual-led generating activities and events. We will align our investments with growth in fiscal 2022, particularly within our partner ecosystem and expect to see continued expense to revenue ratio improvement on an annual basis.
+
+General and administrative expenses were $12 million for the quarter or 21% of revenue, in line with the prior year. We made significant investments in infrastructure and compliance over the last 2 years and we are achieving economies of scale. Our Q4 operating loss was $5 million compared to a loss of $4 million in the same quarter last year.
+
+Our operating margin was negative 9%, in line with Q4 of 2020. Q4 net loss came in at $6 million, a net loss of $0.07 per share compared to a net loss of $3 million, a net loss of $0.03 per share in the fourth quarter of last year. Our full year operating loss was $19 million, and our operating loss margin was 9%, an improvement of 8 points over last year.
+
+While we managed our investments closely in light of the pandemic, we also benefited from savings in fiscal 2021, as a result of moving from in-person events to virtual events, not traveling and not incurring all costs associated with our offices. In fiscal 2022, we expect some increase in these types of expenses albeit not at pre-COVID levels. In addition, we will continue to invest in Rundeck integration and innovation, and fiscal 2022 will reflect a full year of owning this business.
+
+Turning to the balance sheet, we ended the quarter with $560 million in cash, cash equivalents and investments. We improved both our operating cash flow and free cash flow for Q4 and the full year with $3 million in positive operating cash flow in the fourth quarter compared to $2 million in the same quarter a year ago.
+
+Free cash flow increased by over 100% to $2 million in the fourth quarter driven by positive operating cash flow and the deferral of investments in new and existing offices. For the full year, our operating cash flow was $10 million, and our free cash flow was $5 million. This was a major milestone for us, generating positive operating cash flow while continuing to invest in innovation.
+
+That said, we expect to dip in and out of positive operating cash flow during FY '22 and do not expect to be positive in the first quarter due to timing of certain cash payments. There are a number of cash payments that will occur this fiscal year that are either new or incremental, namely a $4 million payment related to the acquisition of Rundeck and a full year of interest payments of $4 million associated with our convertible debt issued in June 2021.
+
+Beginning in Q1, we will exclude payroll taxes related to equity brands from non-GAAP EPS and recast prior periods to make them comparable on a non-GAAP basis. All other items have a cash flow impact only.
+
+While we're optimistic about our early success exiting fiscal 2021 and the acceleration of secular tailwinds for PagerDuty, it is still early in the recovery, and our guidance is balanced to reflect this. I'm confident in PagerDuty's prospects for FY 2022 as we continue to expand our leading market share and grow revenue.
+
+As a reminder, historically, our first quarter revenue is lower as a percentage of revenue for the full year. For the first quarter fiscal 2022, we expect revenue in the range of $61 million to $63 million, which at the midpoint represents a 25% year-over-year growth rate.
+
+Non-GAAP net loss per share in the range of $0.09 to $0.10, with basic shares outstanding of approximately $83 million. This implies a non-GAAP operating loss margin in the range of 10% to 12%. For the full fiscal year 2022, we expect revenue of $264 million to $270 million, which at the midpoint represents a 25% growth rate. Non-GAAP net loss per share of $0.36 to $0.43, with basic shares outstanding of approximately $84 million. This implies a non-GAAP operating loss margin of 10% to 12%.
+
+Before I turn to Q&A, I'd like to remind you of the tailwinds that drive our business: digital acceleration, cloud migration and DevOps transformation are imperatives critical to our customers' success.
+
+PagerDuty's platform plays a unique role at the center of these shifts, redefining workflow, moving teams from an old way to a new way of doing things. We reduce complexity, manage unplanned critical work, improve productivity and ensure top line business outcomes.
+
+This gives me confidence that we are well positioned to see sustained robust growth. We look forward to updating you on our longer-term road map at our upcoming Analyst Day on June 24, arranged around our Annual Summit event. We will be providing more information on details in the coming weeks.
+
+With that, I will open up the call for Q&A.
+
+Question-and-Answer Session
+
+Operator
+
+Thank you. [Operator Instructions] Matt Hedberg from RBC Capital Markets has had his hand raised early on. Matt, go ahead.
+
+Matt Hedberg
+
+Hey. Thank you, guys, and congrats on a great close to the year. The acceleration really across the board was really good to see. Jen, there's a lot of things to unpack here, but success outside of ITOps, we've been talking about this for a long time.
+
+You noted some of the adoption of customer service and security, which is great to hear. I'm wondering, is the success you're seeing there, is that largely expansion in your base or cross-sell, or in fact, are you starting to land in some of these new use cases as an initial entrance into the PagerDuty family?
+
+Jennifer Tejada
+
+Thanks for the question, Matt, and thanks for being here. It's generally expansion within our base, although, with the acquisition of Rundeck, we do see that as an opportunity to land customers through the automation use case as well.
+
+Matt Hedberg
+
+That's great. And then Howard, you mentioned that you're optimistic on fiscal 2022. You seem to have a lot of momentum coming out of 2021. I'm curious, how do you think about your pipeline here? I mean, it feels like there's building momentum. You're effectively halfway through Q1. Can you just talk about sort of the – your sense of pipeline generation? Are things accelerating there as well that really supports sort of the guide?
+
+Howard Wilson
+
+Yes. So Matt, I think what we've seen, particularly in the back half of this last year, sales execution has improved significantly under the leadership of Dave Justice. And that includes far more proactive efforts around pipeline generation. We've also seen how we were able to clearly seamlessly move away to new methods of generating pipeline as we move to more virtual events. So we feel very confident in the health of our pipeline and the mechanisms that we have in place to continue to manage that proactively.
+
+Jennifer Tejada
+
+Yes. And if I could add to that, Matt, I would say that I'm confident we can get our growth into the 30s. I think we have the right strategy. We have the best product. And we have a very experienced team. So I like what we're seeing in terms of trajectory. We're also seeing some early positive signs that the impact of the pandemic is receding. So we're reasonably optimistic, particularly given our historical strength in small business and verticals like travel, hospitality and entertainment, we see those segments reopening as tailwinds for the business.
+
+Yes, I would also say that we're seeing a lot of customers who have had to really shift their business like a large coffee retailer you might know of, where mobile pickup and pay has become really important. That's a pandemic-driven shift, but it's here to stay. And that kind of dependence on digital assets becomes another tailwind for us. So we like the velocity that we have going into the year and feeling good about our go-to-market leadership and with Sean coming on Board, excited about product innovation as well.
+
+Matt Hedberg
+
+Thanks a lot. Congrats, guys.
+
+Jennifer Tejada
+
+Thank you.
+
+Operator
+
+Thank you, Matt. And next, we'd move to William Blair, let’s see, trying to locate that video. Bear with me just a sec. There we are. Bhavan Suri, please go ahead.
+
+Bhavan Suri
+
+Thanks. I'll echo my congrats, too. I guess I wanted to touch a little bit on following up on the previous question about pipeline. You obviously had – and I know, Howard, you said don't look at billings, but you had a phenomenal billings quarter, so we won't look at it. But was there some quarter that happened? Did you see sort of a set of larger deals was – I know you mentioned the commercial business, but just a little more color on what drove fairly material upside in that? And then I've got a question on DRR.
+
+Howard Wilson
+
+Sure. So as I mentioned in my comments, it certainly was a good quarter for billings. So I wasn't going to complain about 21% billings growth year-over-year. But we do note that we did do a number of large multiyear deals within the quarter, and we also had a few renewals that because of expansion activity were brought forward. That being said, across the board, all of our teams executed well. And so we saw a high-volume of transactions, even a lot of smaller transactions and all of that contributed to a healthy billings number.
+
+Bhavan Suri
+
+Got you. Got you. And then if we take the sort of reacceleration in the dollar retention, and we think about pricing impacts and we think about concessions you've given and the loyalty you've talked about, Jennifer and Howard, about customers [indiscernible] come back, are we starting to see that play out? Was this because of the large deals that we saw in that dollar retention and the expansions come in? Help us balance those two out? Is it – are we getting passive? You've seen some early green shoots, but was this because of billings and expansions that drove the net dollar retention rate improvement or a combination, or if you could piece that out for us that would be really helpful, I think.
+
+Howard Wilson
+
+Sure. So -- and Jen may have some comments on this, too. I think the way that I would characterize it is our strength in enterprise is well-established. And we continue to see large customers within the enterprise expand with us. And so it's now become quite predictable that we'll have about one-third of our customers, enterprise customers expand with us each quarter. We saw some spend contracting in the early days of the pandemic. But certainly, today, we're seeing that more of that pre-COVID like demand is back, right? And so those customers are expanding with us. And that's contributing to the good net-net dollar retention rate. However, across all of our segments, we're seeing positive movement. It's not exclusively in the enterprise. Enterprise is above 125%, but we're seeing healthy expansion happening in all of our segments today.
+
+Jennifer Tejada
+
+Yeah. I'd add to that that the success that we're having with the digital operations platform is really driving user expansion within large customers within our base. And I think our customers have learned that, that Clydesdale rule applies that with PagerDuty's ROI, as you add more users that ROI scales exponentially. Likewise, users recognize that the more users on the platform, the easier their job is.
+
+So we're starting to see that network effect at scale. And that makes a meaningful difference. I also -- I just want to recognize our teams again because you look at mid-market, setting a pretty significant record on the number of transactions, their transaction growth over the quarter. I love it when I see that because that's the nature of our hybrid go-to-market model at work where you're doing high velocity transactions, and at the same time still able to do large expansions in enterprise, and Dave and his leadership team have done a great job there.
+
+Bhavan Suri
+
+No, no, thank you. Absolutely. And congratulations to Dave, and all of your teams. Really nice job. Thanks.
+
+Jennifer Tejada
+
+Thank you.
+
+Howard Wilson
+
+Thanks, Bhavan.
+
+Operator
+
+Thank you. Next we'll go to -a hand raise from -- Rishi Jaluria, excuse me, DA Davidson. Let me go ahead and add you to the spotlight.
+
+Howard Wilson
+
+Hey, Rishi.
+
+Rishi Jaluria
+
+Hey, Jennifer and Howard, thank you so much for taking my questions. Great to see the reacceleration in the business. Jennifer, I want to go to a comment you made in response to Matt's question at the very beginning, which is that you're confident that you can get your growth into the 30s, not going to hold you to that as guidance. I think that's a great aspirational goal.
+
+Jennifer Tejada
+
+Thank you.
+
+Rishi Jaluria
+
+But maybe if you could help us understand, what is it that you're seeing that's giving you confidence in that as a reasonable target? And maybe, how should we be thinking about the drivers to achieve there, is that just a bounce back and macro, is that relying on more growth in these non-core use cases, where you're talking about security and customer support, and then maybe some that we’re not even talking about today that we might be talking about a year from now? Maybe let's drill into that. And then I have a follow-up for Howard.
+
+Jennifer Tejada
+
+It's definitely a combination of things. I think strengthen -- when we went public actually, we talked about multiple engines for growth. And I think we really delivered on that mindset, our new product, if you look at digital -- ARR from digital operations management, like that's doubled from that plan, our regional growth is up 40%. So we're starting to see the new, our new investments in EMEA and APJ come online, user growth’s up 40%.
+
+And then we're really starting to see traction in some of the most, I think, sensible adjacent use cases like security and customer service, but we're also seeing user expansion drive new used cases that we don't even track. So those growth engines are working the way we intended them to. We're executing better from a go-to-market perspective. And I do think the macro is improving and its improving in a way that’s favorable to us because remember we don’t have a bunch of pull-forward revenue from COVID, rather what we're seeing is as customers get into either recovery mode as they have gotten about managing remote work and they have made that transition to digital, they are making more strategic investments. Our sales teams have given us feedback that they are just seeing many more transformative deals as opposed to tactical deals.
+
+Secondly, as some of the rest of the market recovers, we expect to see them start to invest like they did potentially pre-COVID or even more than they were investing during COVID because they are now more reliant on the digital environment.
+
+And so I think reopening -- and even hybrid work is a bit of a tailwind for us because when -- right now, when everybody is working at home, it works really well. You know where everybody is. As soon as half the company is in offices and half the company's remote somewhere you can't find them, that those teams feel even more distributed and PageDuty was built for that.
+
+So, I think we're going to continue to pull away from the competition like we have been the last couple of years, and that also bodes well for us. But I just -- I like how it's all coming together. It's probably a really good way to put it.
+
+Rishi Jaluria
+
+Fantastic. That's great to hear. And then, Howard, I wanted to drill a little bit more into the margin guidance for next year. You are talking about margins declining pretty meaningfully. Maybe you can you tell us -- where are you seeing these -- what do you -- what are the high priorities for the incremental investments? And maybe you did touch on this in the prepared remarks, but you obviously expect some bounce back of COVID-related savings as travel becomes a little bit more reasonable than expectation. Can you maybe talk about how much of those costs are coming back and what your assumptions baked into that margin guidance are? And maybe alongside that, just overall, have you turned the corner on at least being sustainably free cash flow positive on a full year basis? Thanks.
+
+Howard Wilson
+
+Sure. So, I would probably unpack it this way, Rishi. When we look at our operating margin, you have identified some of the elements correctly. There was a certain amount of savings that we got this past year related to COVID. But then there were also some proactive measures we put in place as last year in light of the macroeconomic uncertainty, where we slowed down certain parts of our activity, intentionally, like things like hiring because whilst we wanted to get a better understanding of what was happening in the environment.
+
+So, now that we are seeing our execution operating so well, our view is that we can take a far more progressive view on investment into this next year. So, what that means is, one, we'll have Rundeck, which will be with us for the full year, and we have significant investment in Rundeck through this next year. So that has an impact, which we spoke about at the time of the acquisition.
+
+The second is that we're planning to accelerate our investment in engineering because we believe that from an innovation perspective, we've delivered a huge amount of value to our customer base within this last year, but it's not yet done. We have a number of initiatives such as the European data hosting, which is another initiative that is kind of additive to what we're doing.
+
+So, when you add all of those together, our view is that this is the right time for us to continue to invest in the business to continue to invest in go-to-market because the demand is clearly there. And that's why we framed our thinking around operating margin in that 10% to 12% range -- or operating loss, 10% to 12%.
+
+Jennifer Tejada
+
+I would just add to that. When you look at the solid performance on unit economics for the business and also you look at how early we are in this transition, the total addressable market, that gives us confidence to continue to invest in growth, particularly around product innovation because that's where we're demonstrating a number of competitive moats that I think we can build upon.
+
+Howard Wilson
+
+We were -- the prior year, we were at negative 17 operating margin. We improved to negative 9 this year. We've demonstrated our ability to be able to make that progress. So we will continue to be prudent in how we manage those things. And pure comment on operating cash flow, clearly its always been a goal for us to be sustainably cash flow positive.
+
+We have a few things that are happening this year, like the payments related to the Rundeck acquisition and the full interest payments from the capital raise we did last year that are going to mean that some quarters we won't be, but we will continue to be working to be sustainably cash flow positive.
+
+Rishi Jaluria
+
+Wonderful, very helpful. Thank you Jennifer, Howard.
+
+Jennifer Tejada
+
+Thank you.
+
+Operator
+
+Thank you so much. Next question came in as a chat request. Derrick Wood, I'd like to turn to you. Derrick, let me bring it to spot light please. Hi Derrick, its from Cowen & Company. Go ahead Derrick. Thank you.
+
+Howard Wilson
+
+Hi, Derrick.
+
+Jennifer Tejada
+
+Hi, Derrick.
+
+Derrick Wood
+
+Long time listener, first time caller. So, thanks for taking my questions. First, you guys rolled out some new pricing and packaging recently, and I wanted to ask about 2 things. First, on the free tier, we'd love to hear how that's helping build a new customer funnel and whether you see trade downs or that's really just about new funnel generation?
+
+And then second, on the simplification of the SKUs and just would love to hear the dividends from that and how you expect that to impact the model, specifically net revenue retention rates heading into the New Year?
+
+Jennifer Tejada
+
+Well, I'll kick off by talking a little bit about free and then Howard can jump in and talk about pricing. On free, that's been a really important new offer for us to try and stimulate trial and more activity in the top of the funnel, and that's going well. When you look at our new accounts, both free and paid, that's up 23% year-over-year. So we like the momentum that we're seeing there.
+
+Free has also given us an opportunity to invest in long-term relationships with our small businesses who really struggled this year to find OpEx to invest in things. So it's helped us, I think, to continue to keep some of those customer relationships engaged. And frankly, it reduces friction for trial. So it's bringing more users on to the platform, which we have, I think, a good track record in converting.
+
+So it's still very early days as an experiment for us. But again, kind of we like what we're seeing there. And we're seeing it helpful across all of our segments, not just small business and very small business. And I think with Sean Scott here, you should expect to see us try and build more functionality, more discovery, more capability in the early use of our product, the trial experience, how our customers discover us, how they discover new products, et cetera. Howard, do you want to talk about pricing?
+
+Howard Wilson
+
+Yes. And I would add to that, I think the simplification that we did on our pricing structure and our plans has yielded benefits almost immediately because it's made it easier for customers to buy. So the selection process of which plan they should take, they're no longer confounded by is this plan with this option. The simplicity in that has made it easier for them to progress through the tiers. And I think that's part of why we've seen people make the choice around our digital operations plan because it's very clear the value they're going to get into it, and we've made it easy for them to buy.
+
+Derrick Wood
+
+Great, thanks for the color. If I could squeeze one more in? So you guys have a new product geared for customer service, specifically. Can you just explain how that's different from the core? And maybe, how you'll kind of be more strategic around trying to sell that in the New Year? Will there be a dedicated sales force, or how do you plan to take that to market?
+
+Jennifer Tejada
+
+Sure. I'll take that. We actually have one of our executives leading a dedicated business unit around customer service, so really starting to focus on that. And if you think about it, the platforms and products that customer service agents work in are very different from the products and services that developers and IT organizations use.
+
+So our customer service offering really started with deep integrations into products like Salesforce Service Cloud and Zendesk. And we just saw a lot of uptake in when we built those integrations, and we sort of started there and then started to add feature sets.
+
+And if you think about it, case management. So customer -- inbound customer case management is very similar to incident management. But as businesses have become more digital, the urgency, the sort of real-time operations challenge has become a lot harder for a customer -- for our customers, because they have less time before a customer will start shouting on Twitter or Reddit or getting angry or wherever they're going to get angry. They don't call and wait on the 1-800 line for you to patiently express what's going on.
+
+And so, the challenge for these service agents is, they need to get to the developers in the organization, the IT team, the security team, et cetera. And historically, those teams are all on different platforms. What PagerDuty does really well is orchestrate that effort across teams, across platforms, without the agent needing to leave the context of the environment that they're in. So huge time savings, huge productivity savings, and they're able to get the attention of dev and IT very quickly to solve some of these problems.
+
+Likewise, they're able to talk to agents intelligently about what's actually going on, how long it will take to resolve something, et cetera, so able to give better information to service agents as well. So that's -- these are sort of early days. There are some additional use cases that we're working on or serving, but that's kind of the starting point.
+
+Derrick Wood
+
+Great. Thank you. Congrats on a strong Q4.
+
+Jennifer Tejada
+
+Thank you. Nice to have you.
+
+Howard Wilson
+
+Thanks, Derrick
+
+Operator
+
+Thank you. Next, we'll be hearing from Sterling -- let’s see where Sterling went? He’s unmated. There we go. Thank you. Sorry, about that. Sterling, here we are, with JPMorgan. Go ahead.
+
+Sterling Auty
+
+I was just going to hide my video, I was hiding from -- so, guys, I think you've given some of the breadcrumbs to answer part of this, but I want to make sure I fully understand. When you look at the success that you had in the enterprise segment, in particular, and in the quarter, how much of that was coming from expansion in existing customers, which we saw in the net dollar retention versus how much of that is actually bringing on new enterprise customers in the quarter, that might be a result of some of the improved sales execution?
+
+Owen Wilson
+
+So, Sterling, it is a combination of both. We definitely saw good expansion in the enterprise. The enterprise segment now covers more than 50% of our revenues. And so we certainly saw good expansion, which shows up in the dollar-based net retention rate. But we've also been pleased with the customer acquisition that we're seeing in the enterprise and the mid-market segment.
+
+So we've been bringing on -- and much in our land and expand model that we've spoken about for a few years, we've been bringing on enterprises, and they're starting with us small in teams and then growing into those cohorts of the $100,000 and $500,000 and $1 million.
+
+Sterling Auty
+
+And then, just maybe as a follow-up, Jennifer, as you think about that, why not? What is it that these enterprises -- is it just they're giving up on in-house solutions that maybe they were trying to use? Is it that it's clear that you separated from the competition? What are the major – and I'm sure there's a number of them, but what would you say are the one or two things that are causing enterprises to choose you now?
+
+Jennifer Tejada
+
+It's definitely a couple of things. It's definitely the digitization of these business models, creating a sense of urgency to figure out how to make all the complex technology that sits underneath, their brand engagement, their end consumer engagement, their employee engagement, right? And I think COVID taught many leaders, not just technical leaders, but CEOs that when – that digital is care to stay, and it's driving the majority of your business now, not the minority part of your business. And so you've got to get that right.
+
+The second thing is, I think we've just made it clear that we are the only and the best solution for real-time ops, for digital ops and enterprise. There's just nobody who's come close to proving their resiliency and their scale at our level in a way that developers will not only adopt but drive virally across the organization.
+
+And then there's one other trend that I don't think we talk about enough, which is leadership in these large enterprises are increasingly more technical. So you're seeing large traditional companies hire cloud executives from Amazon, right, and Google, et cetera. So you're finding CTOs and CIOs that are developers, like we're coders, we have carried the pager, like really understand the value of not just our first use case, but automating and preventing incidents by using data and machine learning.
+
+So it's just more of an open mind towards adopting some of our newer solutions. And that's probably the thing that I've been the most excited about. When you look at the customers spending over $1 million, growing by 44%, that's because they're not like crawling, walking and running. They're putting together a transformative relationship with us from the start. And then the growth comes as they add users and teams and bring them on board.
+
+Sterling Auty
+
+Got it. Thank you.
+
+Operator
+
+Okay. Thank you so much. Going back to some hands raised from Morgan Stanley, we have Sanjit Singh. Sanjit, on to the spotlight here.
+
+Sanjit Singh
+
+Well, thank you. Congrats on Q4. And really, thank you for all the great metrics this quarter. A lot of things stand out. I think Event Intelligence being up 160% was a particular standout. And I guess my question for you, Jen, is going back to the IPO, you're really clear with us on what the marching orders for the company was, which was to move upmarket and, frankly, be able to monetize your technology lead relative to customers. And I guess it's been the theme of this call so far, but along the dimensions of sales cycles, deal sizes, how often customers sort of haggle with you on price, where are you today versus 12 months ago, 18 months ago, when we're sort of really starting that journey?
+
+Jennifer Tejada
+
+I'm really proud of the balance that we've struck there. We always talked about our hybrid go-to-market model, the fact that we – our land motion is e-commerce-driven, and then our expand motion starts out as transactional and very short sales cycles, a lot of deals created and closed in the quarter. But then as we've gotten into more strategic relationships, where you've got thousands or tens of thousands of users inside a Fortune 100 company, they want a partner to support them.
+
+They want strategic customer success. They want professional services. They want an experienced account executive to help them. And I think Dave and the team have done a great job of bringing that to lay for us without damaging the velocity of the flywheel at the same token. So like we won't dive in deep into the funnel to get hands on something that can grow on its own. So that's one thing I'm really proud of.
+
+The second thing is I think the product team has really struck the balance between getting new features to market, but also continuing to add robust services and important reliability and resiliency investments to the platform so that we can support the largest customers in the world, the most innovative customers in the world in doing what they need to do at the pace they need to do it, right? And so one of the challenges that you have as you grow in enterprise size and I've seen this in my career is you get a lot of customer requests. And they're not always request you're going to want to build for the rest of the market, so you've really got to strike that balance. And the product team has worked really hard to be in the market, listening to our largest customers, but also making sure that when we build something, it's going to engage our entire user community, not a couple of large customers that have a corner case. So I think that's been good.
+
+I also think that there is a recognition around our ROI and our payback and our time to value. So it's not a three-year problem to figure out whether the investment you made in PagerDuty is going to pay off. It's a two-month payback. It's an 800% ROI over three years. And that -- like we get those numbers from our customers. IDC audited those numbers. So when you see that, it becomes a much easier conversation as the quantifiable value prop becomes more obvious. And we've gotten better at having that conversation with customers as we've grown up, for sure.
+
+And then the last thing that I would say is, we're still being chosen by the most innovative startups on the planet. So if you look at where the developer community looks for influence, we're still the first choice there. The market has been very concerned over competition for a very long time and every quarter, we prove that, that is not an issue for us, and we're going to continue to prove that until it doesn't come up anymore.
+
+Sanjit Singh
+
+It's coming up less and less, so that's definitely a good sign. As a follow-up question, I wanted to ask about what's going on in security, because it seems like that market is evolving, kind of, like cloud and the DevOps movement gave rise to observability and automated incident response. It seems like cloud security is on a similar track, and we've seen a lot of M&A, security guys requiring log analytics vendors to do that convergence for the SOP team. And so I'm wondering to think about how you were thinking about the security operations team and what your roadmap and your ability to serve those sets of users as they lean into the cloud at a much more accelerated pace coming out of the crisis?
+
+Jennifer Tejada
+
+We already serve SecOps teams very well. We don't market ourselves very well in that regard. But we already serve SecOps teams very well, because if you think about it, responding to a security breach or a potential threat is the best version of incident response. It's the best example of why it's mission-critical, why it's time-sensitive, how unpredictable it is and how often unstructured it is, and the only way you resolve a situation like a breach to data leak, a potential threat, et cetera, is to orchestrate very detailed troubleshooting and work across multiple teams across the organization, and PagerDuty already does that.
+
+The other thing that we're seeing is developers largely comprise SecOp teams, so they already have a PagerDuty experience that's been positive. It's often a developer who moves into security that brings us in, et cetera.
+
+And if you -- and then the last thing that I would say is when you look at Event Intelligence and what we've done with digital operations management, it is about really finding signal in the noise. As these events are coming through, those integration investments that we've made to the security stack, the threat management stack, et cetera, have been really important in diligencing is this a technology issue, is it a security issue, is it a data issue, et cetera. So, -- and I guess one final thing I would say is the security team and the dev team need to work really effectively together. And ITSM products do not serve the urgent nature of something that is happening right now that could be business critical, where you've got to engage with developers in seconds and minutes, not raise a ticket and wait for a developer to open up their e-mail and find that.
+
+So, the timeliness of getting that work done is really important. So, that is an area that we will continue to invest in. And I think we have to think about is that the right business model to do that long-term, et cetera, but I'm also always trying to help to make sure we're not focusing on too many things at once. And so we're really following where the customer is headed. And we do see the developer community having a huge influence in the SecOps team and in the SOP.
+
+Sanjit Singh
+
+Thank you. Thanks Jen.
+
+Jennifer Tejada
+
+Thank you.
+
+Operator
+
+Currently, we do have two more analysts queued. Chad Bennett next to you and then Kingsley Crane coming to you after. Chad let me bring you up here.
+
+Chad Bennett
+
+Hi Jennifer, hi Howard.
+
+Jennifer Tejada
+
+Hi Chad.
+
+Howard Wilson
+
+Hey Chad.
+
+Chad Bennett
+
+How are you?
+
+Howard Wilson
+
+Good.
+
+Jennifer Tejada
+
+Great. Thank you. How are you?
+
+Chad Bennett
+
+Good. So, Howard, do you have the CRPO number handy for the quarter?
+
+Howard Wilson
+
+Yes. So, our remaining performance operation number, I knew the percentage, I will give it to you in just a minute, $121 million.
+
+Chad Bennett
+
+Okay. And that was CRPO?
+
+Howard Wilson
+
+That was -- yes.
+
+Chad Bennett
+
+And that was up how much?
+
+Howard Wilson
+
+Up 59%.
+
+Chad Bennett
+
+Okay. So, CRPO was up the same amount as overall RPO?
+
+Howard Wilson
+
+Sorry, CRPO, no, I don't have those numbers with me.
+
+Chad Bennett
+
+Yes. Okay. And then -- so just kind of pushing a little bit, pushing you to a little bit on the guide. And I think Jennifer maybe let the cat out of the bag on 30% growth, your expectations, which I'd love to hear and everybody wants more. Just for the growth in Event Intelligence, the growth in the digital ops platform and the acceleration you're seeing in enterprise and the comeback in SMB, the net expansion range you gave Howard of 118 to 121, I guess, anything can happen in any quarter on that metric. But why would that metric go backwards from where we are today? Is there something under the hood that you're looking at?
+
+Howard Wilson
+
+Yes. So, just the mechanics, the range that we provided is 118 to 124, we've seen some steady acceleration over the last two quarters in terms of that number. Part of the reason for why we expect it to fluctuate a bit is our expansions are often related to customers' renewals, right? So, that's often a time, so there's a seasonality element to it that can change when these things -- these occur. Sometimes we bring the renewal forward, and so there's an early renewal.
+
+The other aspect of this is it's very hard to always be sure exactly which customers in a cohort are going to expand. So, whilst we've seen a high level of predictability, particularly in the enterprise in terms of seeing roughly a third of our customers expand every quarter, it's hard to know exactly from which cohort, how many will expand. But we're feeling comfortable with our ability to forecast it and that's why we've decided this year to give focus a view on where we think we would land between the 1.18 and 1.24, expecting that whenever we land on average, enterprise would be high.
+
+Chad Bennett
+
+Right. And enterprise is now north of 50% of the business, right?
+
+Howard Wilson
+
+Correct.
+
+Chad Bennett
+
+Yes. Okay. So if anything, that number should accelerate, right? Not putting words in your mouth, right?
+
+Howard Wilson
+
+We would expect that, obviously, enterprise being a large contributor to that number as enterprise continues to grow, and we see that momentum continue, it would contribute positively to the dollar-based net retention.
+
+Jennifer Tejada
+
+Yes, and I'll jump in there. Just to add a comment. I mean, I am reasonably optimistic about the macro right now. I use the words right now very intentionally. I mean who knows what's going to happen in fall? And so, I just want to point out that, like we're still in a very volatile, unpredictable macro environment. And we're obviously thinking about that. My comments around getting back into the 30s, like that's not a guide. That is -- I am confident this company will get back with a free handle in front of it, but I'm not telling you when.
+
+Howard Wilson
+
+Yes. And I mean, I would just say, Chad, last year at this time, we were having a very different call, like the world is falling apart. And I was trying to give guidance at that point in time, we decided not to suspend guidance despite the uncertainty and we're we’ve actually make sure that we've exceeded our guidance every quarter. So my view is that I want to make sure that what I have visibility of today, and we have reasonable visibility that leads us to give the guide that we do.
+
+Jennifer Tejada
+
+Howard also makes a really good point that if you think about PagerDuty on the whole and you think about our team and kind of how we think about our own business, we are durable. It's a very durable business. It's been a pretty predictable business. Our customer expansion, 1/3 of our enterprise customers expanding every quarter have been predictable. And that's because our customers have become reliant on us, and they are consistently growing through their user base and through add-ons. And I expect that to continue. So that is one of those things that gives me a lot of confidence.
+
+Chad Bennett
+
+Fair point from both of you on the guide last year. You were one of the few, I will point out. Just one follow-up real quick, I assume the expectations on new logo contribution for the year in terms of mix have not changed or any kind of different expectations on new logo contribution?
+
+Howard Wilson
+
+So the way I would frame this is that, the real revenue or ARR drivers for us are mid-market and enterprise logos. And those remain for us an area of focus. Obviously, we are keen to add logos in the SMB space and very small business because that's where a lot of these companies start out. But what actually contributes to our results significantly, it's the up-market numbers. And our expectations is that. we will continue to see those grow at a healthy rate.
+
+Chad Bennett
+
+Great. Thank you. Great execution on the quarter and the year.
+
+Howard Wilson
+
+Thanks Chad.
+
+Operator
+
+Okay, thank you. And we do have a hand raise from Kingsley Crane at Berenberg. [Operator Instructions]
+
+Q – Kingsley Crane
+
+Hi, good to see you and thanks for fitting me in. I had a quick one on the user counts, the 700,000 users. Up 40% is remarkable, higher than 32% growth last year and growing a little bit faster than revenue. So as we think about heading towards the 1 million user count, should we expect user count to continue to outpace revenue? How should we think about the drivers between customer service? And you're also seeing a higher percentage of ARR due to digital ops as well, so?
+
+Owen Wilson
+
+Yes. Should I take it, Jen, or do you want to?
+
+Jennifer Tejada
+
+I'll take a crack at it, and then you can correct me. So the number one, I think, what we're seeing is, the expansion of new teams across the organizations that we serve, particularly driven by digital operations management plan. I think that's really helping us.
+
+The second thing is, we launched stakeholders and business response last year, and so we're seeing an uptick in stakeholder adoption. And those stakeholder licenses have a lower pricing than a traditional license, so that will drive additional users on the platform.
+
+The last thing would be our free product, which is going to continue to drive additional users onto the platform, which gives us a lot more trial at the top of the funnel. So those are some of the things that I think are going to drive that user growth up in ways that I think are very positive for the company long term.
+
+Owen Wilson
+
+Yes. And the 700,000 users are all paid users that we’re referring to there. So this is representative of us becoming more ubiquitous within the organization, as we've been used more broadly across an organization, different use cases.
+
+So, for example, if you're in a pure customer service type use case, you're not going to -- the kind of plan that you would need would be a different plan. Hence, we created a different SKU for it to someone who's in dev. So that accounts for some of the variation there. But I would certainly expect that it will outpace the revenue growth.
+
+Kingsley Crane
+
+Okay. That's helpful. And then, last one. Already on version three of the Zendesk integration, which was recently released, that shows the pace of software development today. So, I mean, what have you learned recently with this integration? And how is it -- how you're feeding that back into the product?
+
+Jennifer Tejada
+
+I mean, one thing we've learned is really hard being a customer service agent. Like, if you think about, like, whose jobs have gotten more difficult by being remote and by being at a home, a lot of troubleshooting happens when you're sitting together in the same area and your team manager is there and your unit managers there, et cetera.
+
+Customer service, I think, have been impacted by layoffs. Customers are using the public interweb to drive their feedback into an organization as opposed to chat and phone calls like they have in the past and e-mail. So I think it's tough to be a customer service agent.
+
+And one of the things that we've learned is, anything we can do to make the contact switching to make the information consumption more actionable to orchestrate a response more quickly, has a huge impact, not just on productivity, but on the health of that customer service team and ultimately, the end consumer experience.
+
+And so, usability, which is one of the things that we're known for, is really important in that use case. Connecting people within the platform they're in, Salesforce Service Cloud, Zendesk, etcetera, and being able to give them everything they need to know about an incident, everything they need to know about who's on it, how long it's taking, et cetera, without them having to pivot into other platforms, super important. And that's where our integration investments, I think, have really made a big difference. But I think we're very, very early here.
+
+Kingsley Crane
+
+Great. Yes. Well, that’s very helpful to hear. Right. And congrats again on a great quarter.
+
+Jennifer Tejada
+
+Thank you.
+
+Operator
+
+Well, that concludes the questions that we have, folks. Jennifer, I would like to turn it back over to you to send us off with some closing remarks.
+
+Jennifer Tejada
+
+Well, first, I just want to thank everybody who's joined the call and thank our analyst community. You all have given us a lot of feedback. We've learned a lot from you in the last couple of years since we were first a tiny newborn public baby in the SaaS industry. So, I really -- we really appreciate your partnership and your help.
+
+Second of all, we do have summit coming up. We're having summit at the end of June this year, the last week of June, which is exciting. We will also be hosting an Analyst Day around that timing, which Howard and the IR team will give you more information, but we look forward to seeing you there and have lots of new, exciting product innovations coming.
+
+And then the last thing is I just want to mention my support for the agent community, given what's just taken place in Atlanta and what we've seen over the last couple of weeks. We do stand with the Asian and the Black community against violence and hope for a more just and equitable universe. So thanks to everybody. Have a great week.

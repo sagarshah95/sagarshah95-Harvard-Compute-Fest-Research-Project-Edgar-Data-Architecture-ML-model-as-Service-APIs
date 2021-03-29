@@ -1,0 +1,529 @@
+Smartsheet Inc. (SMAR) CEO Mark Mader on Q4 2021 Results - Earnings Call Transcript
+Mar. 16, 2021 11:34 PM ETSmartsheet Inc. (SMAR)
+Q4: 2021-03-16 Earnings Summary
+EPS of -$0.04 beats by $0.09 | Revenue of $109.87M (39.93% Y/Y) beats by $7.18M
+Smartsheet Inc. (NYSE:SMAR) Q4 2021 Earnings Conference Call March 16, 2021 4:30 PM ET
+
+Company Participants
+
+Aaron Turner - Senior Director of Investor Relations
+
+Mark Mader - President and Chief Executive Officer
+
+Pete Godbole - Chief Financial Officer
+
+Eugene Farrell - Chief Product Officer
+
+Conference Call Participants
+
+Arjun Bhatia - William Blair & Company LLC
+
+Terrell Tillman - Truist Securities, Inc.
+
+Ittai Kidron - Oppenheimer & Co. Inc.
+
+Melissa Dunn - Morgan Stanley
+
+Michael Turrin - Wells Fargo Securities LLC
+
+Keith Bachman - BMO Capital Markets
+
+Scott Berg - Needham & Company, LLC
+
+David Hynes - Canaccord Genuity Corp.
+
+Mark Murphy - JPMorgan Chase & Co.
+
+Ryan MacWilliams - Stephens Inc.
+
+Brent Thill - Jefferies LLC
+
+Tyler Radke - Citigroup Inc.
+
+Operator
+
+Ladies and gentlemen, thank you for standing by, and welcome to the Smartsheet's Fourth Quarter Fiscal 2021 Earnings Conference Call. At this time, all participants are in a listen-only mode. After the speakers’ presentation, there will be a question-and-answer session. [Operator Instructions] Please be advised that today's conference is being recorded. [Operator Instructions]
+
+I would now like to hand the conference over to your speaker today, Aaron Turner, Head of Investor Relations. Thank you. Please go ahead, sir.
+
+Aaron Turner
+
+Thank you, Christine. Good afternoon, and welcome, everyone, to Smartsheet's fourth quarter fiscal year 2021 earnings call. We will be discussing the results announced in our press release issued after the market closed today. With me today are Smartsheet's CEO, Mark Mader; our CFO, Pete Godbole; our Chief Strategy and Product Officer, Gene Farrell, will also be available during the Q&A.
+
+Today's call is being webcast and will also be available for replay on our Investor Relations website at investors.smartsheet.com. There is a slide presentation that accompanies Pete’s prepared remarks, which can be viewed in the Events section of our Investor Relations website.
+
+During this call, we will make forward-looking statements within the meaning of the federal securities laws. We have based these forward-looking statements largely on our current expectations and projections about future events, financial trends and our expectations around the impact of COVID-19 on our business. These forward-looking statements are subject to a number of risks and other factors including, but not limited to, those described in our SEC filings available on our Investor Relations website and on the SEC website at www.sec.gov. Although we believe that the expectations reflected in the forward-looking statements are reasonable, our actual results may differ materially and adversely.
+
+All forward-looking statements made during this call are based on information available to us today, and we do not assume any obligation to update these statements as a result of new information or future events, except as required by law. In addition to the U.S. GAAP financials, we will discuss certain non-GAAP financial measures. A reconciliation to the most directly comparable U.S. GAAP measures is available in the presentation that accompanies this call, which can also be found on our Investor Relations website.
+
+With that, let me turn the call over to Mark.
+
+Mark Mader
+
+Thank you, Aaron, and thanks to everyone for joining us on our fourth quarter earnings call. We are pleased with our Q4 results of $109.9 million in revenue and $151.2 million in billings. It was a quarter in which we achieved success with large deals, saw strong performance from our acquired brands, launched our no-code WorkApps offering, and saw the community of Smartsheet users exceed 8 million users, including over 1.2 million licensed users.
+
+In Q4, our average domain annualized contract value or ACV grew 40% year-over-year to over $5,100, and expansion within our base included 385 companies increasing their annual recurring revenue, or ARR, by more than $25,000, up from 273 in Q4 of last year. 138 increased their ARR by more than $50,000, up from 93 in Q4; and 43 increased their ARR by more than a $100,000, up from 28 in Q4.
+
+Our Q4 results were fueled by the dedication of our team, partners, and the value customers derived from our platform. While the macro events of last year were unexpected, we now understand that 2020 helps shine a light on the many benefits of the secular shift to the cloud and digital transformation.
+
+After an initial adjustment period where customers were focused on business continuity and employee safety, customers seem to recognize that this new normal compelled them to think differently about how they operate and which tools they would need to navigate a new reality. This has created opportunities for customers to realize meaningful value, opportunities for them to modernize a wide array of workloads and solidify Smartsheet as a core component in their enterprise software stack.
+
+Last year proved that organizations have the capacity to adapt rapidly to changing conditions even using change as an opportunity to more deeply connect individuals to their work and their company's missions. And as distributed work has placed a greater pressure on people's need to solve and manage through distributed teams, Smartsheet's quick-to-configure, no-code platform has proven to be a highly capable mechanism.
+
+Customers were able to rely on the scale of the Smartsheet platform to respond to the global pandemic. From COVID testing at Roche to employee health and safety at customers like Syngenta in the State of Washington, they demonstrated that Smartsheet was built to enable organizational agility even in the largest settings. Driving change has been a core trait of Smartsheet as well, and the last year was a year of meaningful progress.
+
+Key highlights include increasing ARR in every major industry served, completing the migration of our datacenters to the public cloud, launching WorkApps in January with 3,100 organizations building over 16,000 apps so far, achieving 400% year-over-year federal ARR growth and achieving Department of Defense Impact Level 4 Provisional Authorization, establishing our international footprint to serve organizations like the UK National Health Service and Fox Sports Australia, exceeding 500 channel partners, acquiring Brandfolder the centerpiece of our content management offering, and scaling the number of companies who made meaningful investments in Smartsheet, 113 transactions over $100,000 in the year.
+
+Our mission is to empower anyone to drive meaningful change at a time when the world continues to undergo rapid change. Our platform drives equity and invites those closest to the problem to be the solutioner, lifting some from the role of observer or requester to valued change agent and creator.
+
+Historically transformation has been one directional from the top-down, from the center to the edge often through large IT initiatives. Smartsheet enables organizations to do this critical work, but in a way that is more flexible and allows for continuous improvement bi-directionally. Smartsheet cultivates more engaged and effective teams contributing to the business in meaningful ways. That is the future of work.
+
+To support our customers in meeting this challenge, we are committed to driving continuous innovation and improvements in our platform. To this end, growing customer signal indicates that a critical step in developing mission-critical workflows at scale is the ability to connect to other backend systems as well as systems of engagement. We are continuing our investments in delivering an enterprise-grade platform and the ecosystem to which it connects to enable organizations to drive greater net value from their cloud investments. Specifically, this means deepen our investments in strategic alignments with Microsoft, Salesforce, Google, Adobe, and AWS among others, so organizations can move faster and achieve more across the value chain.
+
+In the last quarter, we expanded our partnerships with additional integrations to support new use cases, including human capital management or HCM; robotic process automation, or RPA; and automated document workflows. With the Workday HCM integration by Dell Boomi, Smartsheet customers can deploy integrated and automated workflows from Workday HCM to track progress, create tasks, and execute on work related to their talent needs.
+
+Customers use Smartsheet to automate dynamic workflows continues to grow rapidly. Year-over-year, growth has been 300% over the past six months with over 7 million automated actions processed in the last 30 days. We are also hearing from customers a desire for the ability to connect dynamic workflows managed in Smartsheet with the more structured workflows that many customers are automating with RPA.
+
+Through our recently announced partnership with UiPath, we are making it even easier for our customers to automate interactions in Smartsheet around common use cases like employee onboarding, lease management, and project management. Customers also consistently highlight the challenges of executing document workflows, including signature at scale.
+
+Last week, we enhanced our DocuSign integration to enable signature and process tracking as part of Smartsheet Document Builder. Document builder automates and increases the accuracy of document creation for use cases like lease agreements, job offers, and invoices. Over the past 90 days, document builder has helped customers to generate over 300,000 documents. Beyond the benefits provided to our mutual customers, I am also proud that each of these high-impact brands, Workday HCM, UiPath, and DocuSign are also Smartsheet customers.
+
+I'd like to talk about our solutions strategy for a moment. Over the last few years, our Accelerator strategy has helped customers increase the speed and agility of projects and processes and address targeted workflows. With solid traction, customer signal indicated a desire to take these solutions even further. In support of this, we are launching the next phase of our Accelerator strategy, capability-based offerings that provide differentiated technology and that can be used to configure and support a set of use cases.
+
+Starting with marketing and project and portfolio management, PPM use cases, these solutions will deliver even higher levels of capability to enable customers achieve greater results. Smartsheet for marketing combines the resource management capabilities of 10,000 feet, Brandfolder's content management and analytics capabilities, and Smartsheet proofing to deliver solutions that benefit marketers and content creators. Smartsheet for marketing is reinvigorating how customers tackle their marketing challenges.
+
+A recent customer win with a disruptive sports network, Overtime Sports, demonstrates the strength of our combined offering for marketing. Overtime has chosen the full suite of Smartsheet properties to streamline content production, track and measure resources, establish a scalable library of content and determine ROI for their content strategies. The combined capabilities of Smartsheet’s platform, project management, resource management, digital asset management, marketing analytics tools and proofing provided a unique solution like no other vendor.
+
+Beyond features and capabilities, form is as important as function. In 2021, we will deliver a new user experience for our customers. This design is a multi-phase investment to help customers achieve more with a beautiful refined user experience. The first phase of the redesigned experience has been used by over 35,000 users in beta and launches globally next month. In the coming year, we will continue to provide a meaningful touch points with customers through virtual experiences.
+
+In 2021, our annual customer conference ENGAGE will take a different form, shifting to three distinct virtual events that will provide multiple opportunities for education, support and connections throughout the year. We look forward to resuming events with in-person connection opportunities when deemed safe to do so.
+
+In closing, our goal is to lead organizations up the ladder of digital transformation where all the benefits, productivity gains, engaged employees, delighted customers and significant ROI are realized. As I shared with the latest group of 50 new team members who started at Smartsheet last month, in 15 years of leading Smartsheet, there has never been an opportunity like the year ahead. With new solutions and improved core offering, a more capable team, and most importantly, customers who realize what's possible, we are looking forward to the future.
+
+Now let me turn the call over to Pete to provide additional details on our financial results. Pete?
+
+Pete Godbole
+
+Thank you, Mark. Overall, we were pleased with the results for the quarter, which reflected the continuation of improving business trends and large deal volume. I will now go through our financial results for Q4 and fiscal year 2021. Unless otherwise stated, all references to our expenses and operating results are on a non-GAAP basis and are reconciled to our GAAP results in the earnings release and presentation that was posted before the call.
+
+Our Q4 results were positively impacted by an easing of COVID-related sales headwinds we saw earlier in the year, continued strength of larger transactions and a strong close to the fiscal year-end by our sales organization that was supported by a year-end customer budget benefit.
+
+For our full-year 2021, we ended with total revenue of $385.5 million, up 42% year-over-year; billings of $450.7 million, up 35% year-over-year; operating loss of $41 million and free cash flow of negative $31.6 million. We ended the year with annual recurring revenue of approximately $440 million.
+
+Next I will provide more color on our fourth quarter financial results. As previously mentioned, fourth quarter revenue came in at $109.9 million, up 40% year-over-year. Subscription revenue cross the $100 million mark for the first time and it was $101.1 million, accelerating year-over-year growth to 42%. Services revenue was $8.8 million, representing year-over-year growth of 18%. The Brandfolder contribution to total revenue in the fourth quarter was $4 million exceeding our expectations.
+
+Now turning to billings. Fourth quarter billings came in strong at $151.2 million, which was an acceleration in the year-over-year growth rate to 49%. Brandfolder contributed $5.9 million to our billings number, which also exceeded our guidance. Approximately 90% of our subscription billings were annual with 5% monthly. Quarterly, semi-annual and multi-year billings represented 5% of the total.
+
+Moving on to our reported metrics. We now have 11,874 customers paying us $5,000 or more per year, 1,515 paying $50,000 or more per year and 588 now paying us $100,000 or more per year. These customer segments now represent 82%, 46% and 32% respectively of total ARR. Our domain average ACV grew 40% year-over-year to $5,103. We ended the quarter with a dollar-based net retention rate of 123%. The full churn rate improved and is now below 7%.
+
+You may notice that our billings number came in higher than our guidance, while our dollar-based net retention rate was in line with our expectations. This is due to a greater proportion of our billings this quarter coming from both new customers and expansion of customers that we acquired over the past year, neither of which would impact our Q4 dollar-based net retention rate.
+
+For the first quarter, we expect our dollar-based net retention rate to remain around 123% as we lapped the first COVID-impacted quarter. Through the remainder of the year, we expect dollar-based net retention rate to trend moderately higher.
+
+I'd like to provide additional color on our progress with our large customer segment, which we defined as a customer with over 10,000 total employees. At the end of fiscal year 2021, we had over 2,800 customers in this segment of which 41 had annual recurring revenue of $500,000 – greater than $500,000 up from 19 a year ago. This customer ARR level represents an investment in the Smartsheet platform that encompasses a broad selection of our offerings.
+
+This large customer segment represents approximately a quarter of our current ARR with significant expansion potential. If we expanded the remaining domains in this cohort to the $500,000 ARR level, which we have shown an ability to do, the total ARR opportunity for this segment would be around $1.4 billion. Our strategy across all segments starts with organic adoption and subsequent expansion. This is seen in this segment as well, where a greater than 80% of these customers had ARR of less than $5,000 in their first year. This segment also exhibits higher expansion rates.
+
+As of Q4, the dollar-based net retention rate for the over-10,000-employee customer segment was 140% higher than the rest of our customer population. Additionally, we are seeing significant active user growth in this segment, which also supports our conviction and while we continue to invest in features, products and packaging to further support our growth with large customers.
+
+As we think about the growth opportunity ahead, we have firmly established Smartsheet as the CWM solution of choice for enterprises with broad applicability for companies of all sizes. As shown earlier, we have a long growth runway ahead. We will continue to invest in our opportunity, and I look forward to providing additional details on our progress in the coming quarters.
+
+Now turning back to the financials. Our total gross margin was 81%, 2 percentage points better than the third quarter. As you’ll recall, our gross margin was adversely impacted in Q3 due to the presence of duplicative server costs associated with our migration to the public cloud. The completion of the migration in Q3 meant that the duplicative costs did not repeat in Q4. Our expectation for gross margin for the fiscal 2022 is to be between 79% and 81% as we look at leveraging public cloud infrastructure internationally.
+
+Overall, operating loss in the quarter was negative $5.3 million or 5% of revenue down from 22% of revenue a year ago. This was built on year-over-year leverage in all functional areas. Free cash flow was positive $9.9 million, which exceeded our guidance. Longer term, our model has the capability to generate significant cash flow at scale.
+
+Now before I move on to guidance, a quick housekeeping item. In the past, we had reported out on our licensed user count at the end of each fiscal year. Recently, we have expanded our product offerings to include new products and packaging structures that provide us with new ways to monetize more of our user base. This is a trend we expect to continue. As it does, focusing on licensed users will understate our increasing ability to monetize our user base. Due to this evolution in our business, going forward, we will continue to report out on our total community size each quarter. However, we will no longer report out on our licensed user count.
+
+Now let me move on to guidance. Our fiscal year 2022 guidance contemplates a gradual improvement in the macro environment in the second half of the year. This drives our expectation of billings seasonality that is weighted more towards the back half of the year. For the first quarter of fiscal year 2022, we expect revenue to be in the range of $111 million to $112 million, billings to be in the range of $118 million to $119 million, non-GAAP operating loss to be in the range of $19 million to $17 million, and non-GAAP net loss per share to be between $0.15 and $0.14 based on weighted average shares outstanding of 123.5 million. Our net free cash outflow is expected to be in the range of $12 million to $10 million.
+
+For the full fiscal year, we expect our revenues to be in the range of $500 million to $505 million, representing growth of 30% to 31%. We expect billings to be in the range of $580 million to $585 million, representing growth of 29% to 30%. We expect non-GAAP operating loss to be in the range of $55 million to $45 million, and non-GAAP net loss per share to be between $0.44 and $0.36 for the year based on approximately 124 million weighted shares outstanding. And we expect our free cash flow margin in fiscal year 2022 to be between minus 6% and minus 4%, an improvement from minus 8% in fiscal year 2021.
+
+In closing, I would emphasize a few points in relation to our business. First, the Smartsheet business has diversified across segments, verticals and geographies with customer ARRs that range in size from a few hundred dollars to several million dollars. Second, our customer spending priorities grow and scale well with our solutions, and we will continue to invest in this opportunity. Third, with rapid innovation in our proprietary features and our M&A over the past couple of years, we have significantly widened our competitive moat. And finally, we have an incredibly powerful distribution model with large community of over 8 million users. This positions us incredibly well to execute the fiscal year 2022 plan and maintain our position as a leader in enterprise CWM.
+
+Now let me turn it back to the operator for questions. Operator?
+
+Question-and-Answer Session
+
+Operator
+
+Thank you. [Operator Instructions] Your first question comes from the line of Arjun Bhatia from William Blair. Your line is open.
+
+Arjun Bhatia
+
+Hi. Thank you and congrats on a great quarter and a great end to the year. Mark, maybe this first one is probably for you. But you mentioned in your prepared remarks a little bit on the evolution of the solution strategy, and I was just wondering if you can maybe expand for us a little bit what the changes you are making to the solutions are and how – maybe how should we think about the impact that will have on your pricing strategy for some of those accelerators and other value-based capabilities?
+
+Mark Mader
+
+Yes. Arjun, I think we'll take this as a two-parter, so I'll answer – I have a couple of comments, and I’ll let Gene cover off. So I think two things we're trying to do is, is respond to customer signal. And when I think about what we did with accelerators in prior years, solving for very specific use cases, really letting people take advantage of this composite of our dashboards and our sheets and our reports and our forms, people like those. But the things that we're seeing is we're scaling further in the enterprise is a different set of needs. It can be on the dimension of scale and control, things for which we're actually developing proprietary IP. So technology is being built. It's way beyond just the configuration of a solution. So I'll let Gene speak to that in a second.
+
+The second piece around packaging and pricing, that's very important. Over the last few years as we've created more and more capabilities, we have this ever-growing portfolio of things, and people want simplicity in how they engage with us. So for us to get our median sales rep to be able to sell quickly and confidently and let customers to be able to react to that well, there needs to be a simplicity in the offer. And that's what we're achieving now with the change in packaging as well as with this newly enhanced set of offerings. Gene?
+
+Eugene Farrell
+
+Yes. Building on Mark's comments, it's really a shift that we've taken based on customer signal where – on the solutions side, customers are looking for the ability to really tailor solutions more precisely to their individual business needs, and they're looking for the ability that when they license a set of capabilities, being able to apply those capabilities across multiple use cases is a functional area. So for example, in marketing, we have an accelerator for event management, customers are saying, “Hey, what I'd really like is to be able to license a set of capabilities that will support marketing event management and campaign management and creative content development,” and the list goes on.
+
+And so what we've essentially done is look to a new packaging approach that takes our premium capabilities that will still be available as a la carte or individual capabilities. But we're now also offering them in a bundle or a package of premium platform capabilities that our customers can license at a significant discount or a value when they license the package versus buying them individually.
+
+And by positioning that platform, it really enables us to grow with less friction within customers because they then have the entire platform to be able to build on top of. And then it also changes how we monetize because we've actually priced that premium offering based on the number of connected users to the actual platform. And so a company that has Smartsheet deployed within a department can license it at a price point that is commensurate with the value that they get at the department level. As they expand and add more connected users across the enterprise, renewal that will then relicense or expand that customer at a higher price point.
+
+Arjun Bhatia
+
+Got it. That's very helpful. Thanks for the color. And then, Pete, maybe one for you, a little bit of an open-ended question. But after being in the CFO seat for 90 days now, it would be great if you can share with us some of your early observations about the business overall as a newer member of the leadership team. And then from a financial perspective, I know you mentioned the licensed user disclosure change, but curious if we should expect any other changes in disclosures going forward? Thank you.
+
+Pete Godbole
+
+Arjun, thanks for the question. So first 90 days have flown by really fast. There’s probably three takeaways for me. The first one is, you always hear the word TAM, and you have to actually feel it. So as I joined Smartsheet, actually using the product and figuring how it could work and actually did work was just a realization of that opportunity. You can see the TAM – you can see the TAM at play. I couldn't be in any more Zoom calls and get the work done.
+
+The second one is, as I dug into the business, I have confidence in the business. I believe the opportunity is here. The long-term opportunity is our focus and our near-term investment should help us unlock it. So I believe that. And then the last part of it is the leadership team. I think for every opportunity, the leadership team is what unlocks it, and as I've gone through this year of experienced leadership team that really knows how to take advantage of it and scale into that opportunity. So those are my three quick observations. The second part of your question was on metrics changing. We're not changing any metrics other than the one I specifically called out as a part of our housekeeping.
+
+Arjun Bhatia
+
+Perfect. Thank you, and congrats again on the results.
+
+Pete Godbole
+
+Thanks, Arjun.
+
+Operator
+
+Your next question comes from the line of Terry Tillman from Truist Securities. Your line is open.
+
+Terrell Tillman
+
+Yes. Thanks. I want to echo the congratulations. Great quarter. Hi, Mark, Pete, Gene and Aaron. And also, I did like the disclosure around the larger enterprises with 10,000 plus employees. That was very helpful. I had two questions after all of that there. Mark, I tend to ask about where we are in just kind of the market itself, the collaborative work management market and its evolution. You'll have a lot more capabilities now, you have no-code apps, you have Bridge, you have all these other things that are kind of infrastructure oriented for enterprises. Are you seeing as we went through calendar 2020 and how you think about 2021, are you seeing much larger landings when you get into a new enterprise for the first time that you hadn't touched before or is the initial acquisition kind of size, is it changing much? And then I had a follow-up question.
+
+Mark Mader
+
+Hi, Terry. I think we have the opportunity to land larger, but the beautiful thing is not a requirement, right. So if you have someone who really wants to accelerate right out of the gate and want to consume a premium platform thing with Brandfolder included and fully digitized a large workflow, they can do so. But I would say that the ability for them to maintain that optionality still remains critical. We still see evidence of teams within large departments at really large companies wanting to have that earned enterprise approach. So it's important as we come up with these new offerings, we're not forcing the customer's hand, we're giving them an option.
+
+And I think that's where as Gene said, the a la carte approach or the fully packaged bundle approach, I think it’s something that is still very much needed. I would say, though, that with Brandfolder was a good example, where we had a couple of new wins that were in the high five figure range. And it's a wonderful performance by that team.
+
+Terrell Tillman
+
+Yes. And Pete, maybe a question for you. Thanks for the disclosure on the acquisition or Brandfolder benefit. So I think you said $5.9 million. Can you remind us what the expectation if there was one you laid out going into the quarter for billings and did anything change because of what you're seeing in the signals on the acquired business contribution to billings in FY2022? Thank you.
+
+Pete Godbole
+
+So Terry, the number we guided to for Brandfolder was $4 million and we came in at $5.9 million. So that's the specific answer to your question. And then what did we see in the market? We saw a great deal of traction for the Brandfolder product. We saw them engaged in sort of customer's really leaning into Brandfolder. And that's sort of what we're seeing in the marketplace.
+
+Operator
+
+Your next question comes from line of Ittai Kidron from Oppenheimer. Your line is open.
+
+Ittai Kidron
+
+Great quarter as well. I wanted to dig in into the large customer commentary. Maybe you can talk about, Mark, what is it that you think is the biggest bottleneck you have right now in taking these 2,800 customers that have 10,000 employees plus that on average spend with you, I don’t know, $40,000 and getting them into $0.25 million and $0.50 million? What is the main bottleneck? How much of that is product-driven versus go-to-market approach?
+
+Mark Mader
+
+All right. So I think it is really a combination of the two. I mean, you can't round go without the product capabilities. But if you don't have the mechanisms, the sales muscle, the advisory service, the sort of a journey mapping for the customer, you're putting an intense amount of pressure on your prospect to your customer to figure that out on their own. So as we look at leaning in on our large enterprise team build-out, both with quota-carrying reps and with advisory services, those are things that we think are fundamental. So I would say, the bottleneck or the opportunity for growth is really in building that team out. I think we're doing all the right things on the platform piece to make it happen, but it's really building the team and also enabling partners to contribute to it.
+
+Ittai Kidron
+
+Got it. Okay. And so as I think about your evolution through the year, can you talk about some of your plans for quota-based individuals and how frontloaded that’s going to be? Or maybe if you’re not going to say numbers at least by how much – what percentage you intend to increase your quota-based individuals team this year?
+
+Pete Godbole
+
+Ittai, this is Pete. So essentially like we've done every year, we are planning to increase the size of our sales team. And as you’ll recall, we stayed on point in our investment in fiscal year 2021. So we started there. We are going to add 25% more headcount resources. And like I’ve said that we added more in the first part of the year than the latter.
+
+Ittai Kidron
+
+Got it. Very good. Good luck guys. Thanks.
+
+Pete Godbole
+
+Thanks, Ittai.
+
+Operator
+
+Your next question comes from the line of Stan Zlotsky from Morgan Stanley. Your line is open.
+
+Melissa Dunn
+
+Hi guys. This is Melissa Dunn on for Stan. Thank you for taking the question. I think the first thing I was hoping to ask about is your performance in billings for Q4 obviously had a really strong quarter. Is there anything you can flag that happened in the quarter that you weren't necessarily expecting when issuing your guidance originally and anything we should be aware of in terms of maybe one-time dynamics in the quarter? And any more color on the strength there would be really helpful.
+
+Pete Godbole
+
+I think in our prepared remarks, Melissa, we referenced the three things. We talked about less macroeconomic headwinds. We talked about the volume of larger transactions and the strong sales execution. Those were absolutely the case. We sort of covered those fairly well. I would say a couple of things we expanded across almost every vertical. Our sales time – our sales cycle time has reduced and our pipeline conversion improved all in line with the earlier comments I made.
+
+Melissa Dunn
+
+Okay. Thank you. And then maybe a question for you, Mark. So on the user experience enhancements to the product, are there specific things that you're trying to solve for with the new improvements?
+
+Mark Mader
+
+Yes. I think there are a couple of items. One is, I think a more refined look and feel, but there's also a huge part of that, which is around discoverability, right. We have this ever-growing set of capabilities unless you can have your users unlock those and benefit from them, they somewhat don't matter. So we're really looking forward to being able to make certain things much more obvious. And again, over the years, we've added a lot to the product and now our job is not only to build, but to also make sure that there's full attach across the suite and that's really what we're aiming to do.
+
+Melissa Dunn
+
+Okay. Thank you.
+
+Operator
+
+Your next question comes from the line of Michael Turrin from Wells Fargo Securities. Your line is open.
+
+Michael Turrin
+
+Hey there. Thanks. Good afternoon. It sounded like on the commentary that the net expansion rate is stabilizing here in the low 120%, as I think. We appreciate the additional disclosure on the large customer side, whereas that number breaks out closer to 140%. Can you just expand on the large customer expansion opportunity that $1.4 billion ARR opportunity you're highlighting, how you're defining that and how you effectively prioritize penetrating that from a product and go-to-market perspective?
+
+Pete Godbole
+
+So I’ll take the first part of it, and I'll let Mark speak a little bit to the second part of sort of how we are going after the opportunity. The way we discussed the opportunities, we said, we have 2,800 customers today who have more than 10,000 employees are already customers of ours. We have 41 of those who pay us greater than $0.5 million in annual recurring revenue. If I took the remaining population base and converted them all over to $500,000 and you did the math, you would come up with $1.4 billion. That's the way we did the opportunity sizing. Mark, I’ll pass over to you.
+
+Mark Mader
+
+Yes. I think in terms of the go-to-market, I think a big part of this is, is really marrying a very strong land and expand motion with an opinionated sales approach. So if we go into a larger customer that we know has significant needs across automation, customer enablement, planning, these are the things that we can come in with a solution set. We can assign a significant ROI to it, which would command a more significant level of investment. So I think the path to getting from 41 – over $0.5 million contributors to dramatically increasing that is to have more of those pairings of the top-down guiding advisory, examining how we can best help, paired with that bottom up. And that's something which again, we're developing right now. A few years ago, it didn't exist at our company if the muscle has been built and now we need to scale.
+
+Michael Turrin
+
+Great. Thank you.
+
+Operator
+
+Your next question comes from the line of Keith Bachman from Bank of Montreal. Your line is open. Mr. Bachman, your line is open. If you are on mute, please unmute.
+
+Keith Bachman
+
+Yes. Thank you. I wanted to ask two questions that are related and I think I'll direct them to Mark, if I could. Mark, first on the competitive landscape, I wanted to get an update on your thinking? And in particular, I think about how the market may unfold as it relates to RPA. Right now, you indicated you signed a recent partnership with UiPath, but how do you think that particular segment has the risk or opportunity of overlapping in the next couple of years?
+
+Mark Mader
+
+I’m actually going to let Gene speak to this one.
+
+Eugene Farrell
+
+Yes. Hi, Keith. I think that – yes, the question is really around where do we see RPA playing out around relative to our capabilities. And in doing the agreement with UiPath, it was really driven by a signal from – that both companies were receiving from customers where their workflows in modern enterprise that really cross between the more, what I'll call, routine kind of on-rails structured work into unstructured dynamic work, where you need to – you have a degree of variability that machines are not going to be able to adapt for and customer desire to be able to take workflows that maybe start in that structured space and they're using RPA to improve efficiency and throughput, and then be able to pass those off to an unstructured or dynamic workflow that's being managed at Smartsheet.
+
+And I think you can actually work both ways. You can start in the unstructured side and move to structured and vice versa. I think your question is really around how do we see those converging. Well, I think there will be increasing marriage between those technologies as more and more companies find ways to leverage machine intelligence to really eliminate what I call kind of the no-brainer workflows that today are being done by humans mainly because systems can't talk to each other very well. I think that's very different than what's happening in the unstructured space where you really have to have that ability to adapt and change really, really quickly.
+
+And so I don't think there's ever a complete overlap. I think it's really a nice marriage going forward. And our goal is to be positioned as the platform of choice to be able to support the unstructured side of work.
+
+Keith Bachman
+
+Okay. That makes perfect sense to me. The second question is on increasing your dollar penetration rates. If you look even at your largest customers, your dollar percent of spend per customer is still relatively low, and while it's been coming up nicely, I'm just wondering how that moves more rapidly. And the area that I wanted to focus on is both the Accelerator strategy and the capability-based projects that you talked about in marketing as an example. But how do you think about that unfolding over the next two years to try to increase your dollar penetration, so to speak?
+
+So in other words, if you look at accelerators now as a percent of your billings and you combine that two years from now with the marketing-based capabilities plus the extended family, how do you think that changes? And do you think that moves the needle on your dollar-based penetration of your customers?
+
+Pete Godbole
+
+Yes. So let me kind of break this down. I think there's really a couple of different elements to it. I think it starts with some of the things Mark talked about around how do we be more intentional and more opinionated in helping customers accelerate their journey. COVID has provided this amazing opportunity where companies are realizing that they kind of business as usual in the way they've been operating for years. It’s likely not going to be the preferred way to operate as we come out of the pandemic.
+
+And so there's a real catalyst for folks to rethink and companies to rethink how they're operating. So I think us being positioned to really help guide them on that journey through our sales and support services, is probably at the tip of the sphere. To support that, I think there's really two key elements of our offerings. The first is in the platform – premium platform capabilities we’ve talked about.
+
+One of the things we've learned over time with customers is that when you sell against a specific solution or a specific need, customers drive a lot of value from that. But then many times immediately say, hey, this works so well here, I want to go pivot to the next use case. And when they just licensed a subset of our platform, they're not always able to solve for that beautifully. So we have to come back and relicense or it creates friction in the process which slows down expansion and their ability to drive value from Smartsheet.
+
+So shifting to a more holistic premium platform approach, we think really is going to take the brakes off of our customer's ability to extend Smartsheet and the value we create across the enterprise more quickly and solve for a broader set of use cases in a lower friction way. The third thing, I would mention is Work Apps and the no-code capabilities that that introduces. We are seeing really positive signal from customers. It’s still very early, and there's a lot of – lot that we're bringing to market over the course of this year to really enable Work Apps to be deployed at scale and manage at scale. But we really see that ability to create curated experiences around workflows and specific use cases as truly differentiating and really empowering because it's a true no-code platform where business users are able to build and configure these solutions and deploy them really, really quickly, and then modify or adjust when businesses present.
+
+So I think the combination of the intentional and advisory go-to-market with our platform and our Work Apps capabilities, I think they are really the key to accelerating that journey to large ARR customer.
+
+Keith Bachman
+
+Okay. Helpful. Many thanks.
+
+Operator
+
+Your next question comes from the line of Scott Berg from Needham. Your line is open.
+
+Scott Berg
+
+Hi, Mark, Gene and Pete. Congrats on the great quarter and thanks for taking my questions. And Gene, I promise I won't ask for you to pick your favorite children here on this call.
+
+Eugene Farrell
+
+Thank you, Scott. I was practicing.
+
+Scott Berg
+
+I guess the first question, Mark, is you saw another competitor in the space get acquired over the last 90 days since we had this last call. And I think I asked a similar question on the last acquisition 90 days ago. But two acquisitions in the space in a short timeframe, I think certainly speaks highly in the space. But how do you see maybe the collaborative work management sector unfolding over the next two to four years and does this heightened consolidation, I guess, maybe anything in particular? Thank you.
+
+Mark Mader
+
+Yes. I don't really have commentary on sort of the acquisition dynamics. But what I would say, it's a recognition that the space is young and growing and we're investing heavily. You have larger caps as evidenced by Adobe and Citrix, wanting to participate. So I think there's really strong agreement that there's growth opportunity. And we're maniacally focused on our strategy and executing it. And I will say that those – both neither of those events meaningfully caused us to adjust our strategy or our investment posture.
+
+Scott Berg
+
+Got it. Helpful. And then a follow-up question, someone else recently asked about the net revenue retention rate looks like it's kind of stabilized in the low 120s here. But as we think about that metric here in the current quarter or maybe over the next couple, has the upsell pace normalized to what you saw pre-pandemic or is there still a couple of steps to take there as the rest of the economy rebounds?
+
+Pete Godbole
+
+Scott, this is Pete. So the net dollar retention rate has sort of stabilized at the 123% mark. And that's sort of really guided Q1 because it's lapping our first COVID quarter. I think if I were to sort of break this down, we are instead of waiting for the upsell piece to pick up going forward and that's factored into my commentary around moderate improvements in the net dollar retention rate.
+
+Scott Berg
+
+Got it. Very helpful. Thanks for taking my questions and congrats again on the good quarter.
+
+Mark Mader
+
+Thanks, Scott.
+
+Operator
+
+Your next question comes from the line of David Hynes from Canaccord. Your line is open.
+
+David Hynes
+
+Hey, thanks guys. Congrats on a strong finish to the year. Mark, I want to kind of build on Scott's last question, right? If I think back a couple of quarters ago, it seemed to me like the transactional business was really healthy. The enterprise stayed fairly strong, but there was kind of a blip with expansion of customers in the middle, right? And I think the numbers would suggest you're seeing some recovery in Q4. But I just want to ask explicitly about kind of what you're seeing with that expansion business in the middle customer cohort. And if it is, in fact, getting better, was it just time and recovery? Or is there something that you did to kind of affect change there?
+
+Mark Mader
+
+I think one of the things that I'm really pleased to see is that both at the larger customer segment, really all up and down the stack, we're seeing a shortening of sales cycles again. So if we had – we’re down about 15% to 20% from what we saw in Q2, and that's a really good indicator. So I look at velocity as a really important factor. And it's not just velocity of the over 10,000 employees, it's all the way down to emerging companies. So that's a really positive trait that we're able to monitor. So I think the – in terms of the number of transactions, I think, we’re – that the ability to simplify one's offerings, I think are a huge, huge input to achieving a different result. I do think macro is important too. We are still coming out of COVID, where hopefully vaccinations continue to go smoothly.
+
+But I think making what we do, what’s within our control easier for people to consume is probably as large of an impact. So I think we're making right choices there. And again, it's always interesting when you go to launch new things, obviously, as Gene said, that many of these decisions with existing customers. The puck is on the ice now for real, and we will get to see in Q1, whether all of that research and packaging does what we hope it does.
+
+David Hynes
+
+Yes. Makes sense. And then maybe a decent segue. So like where are there other opportunities that you think you could verticalize by function, right? I mean, obviously, Brandfolder has been a huge success in marketing, and you guys have done some stuff organically in that area. Like where else do you have a concentration of users inside of large organizations that would make sense for kind of more vertically tailored efforts?
+
+Mark Mader
+
+Well I think that the most obvious and the one that we're most excited about right now is really, I'll call it kind of disrupting traditional PPM. Almost every company has an element of project program, process management, and it's something – that's a significant use case for us today, but an area where the work we're doing with 10,000 feet and Smartsheet, we think, and some of the newer stuff that's in the pipeline, we have a real opportunity to disrupt there and really deliver pretty transformational experience for our customers that really moves away from a lot of the limitations of kind of the legacy platforms in that space. So that's an area that we're focused on and we'll be launching something later this year.
+
+Beyond that, I think that we're seeing really early signs – positive signs on document generation workflows and being able to leverage some of the capabilities that we've recently launched there combined with signature and our workflow automation that I think have a lot of potential. We haven't narrowed on a specific function, but that is an area that I'm bullish on exploring.
+
+David Hynes
+
+That's great. Thanks for the color.
+
+Operator
+
+Your next question comes from the line of Mark Murphy from JPMorgan. Your line is open.
+
+Mark Murphy
+
+Yes. Thank you. I will add my congrats. Pete, I believe during Q3, you had still seen some minor type of strain from industries like travel and retail and entertainment. Can you just comment on what you saw in Q4? Did those headwinds stayed materially? And in your forecast, do you see those customers kind of reengaging with you this fiscal year?
+
+Pete Godbole
+
+So Mark, I'll answer your question in two parts. The first is the vertical piece of it. So we did see between Q3 and Q4 sort of strong momentum in most industries, the impacted industries were still travel and entertainment, so that continues to be a headwind. And then the second part of your question was on returning customers. We saw about the same number of customers who had left us in Q1 and Q2 that I described in Q3, a similar number came back in Q4. So we're seeing that trend of people coming back as economics improves.
+
+Mark Murphy
+
+Okay. One quick housekeeping item, Pete. Are you able to ballpark the percentage contribution from capability-based offerings in Q4? If you mentioned that I might've missed it?
+
+Pete Godbole
+
+I didn't mention it, but if I were to give you a sense of it, on a revenue basis, year-over-year, the capabilities range from a 13% a year ago for the same quarter to 20% now. So that'll give you a sense for how strong our capabilities business is.
+
+Mark Murphy
+
+Okay, perfect. And then Mark, I wanted to go back to, I think, something you alluded to. I'm wondering how tangible maybe are any signs that this whole category of collaborative work management, perhaps it wasn't the immediate pandemic response category, but that – maybe it was something that was just destined to happen a little later in the cycle. And companies have a little more time to think about getting work done outside of Zoom, as Pete referenced. And maybe they're getting a little more visibility into the distribution of their workforces, how it'll settle out. So I guess I'm just wondering is there something beyond kind of macro recovery to the prior glide path and maybe a little extra spending wave that you might be seeing developing here?
+
+Mark Mader
+
+Yes. I'd love to see that extra wave develop. I think, what, there is recognition of is that synchronous communication. They’re sort of an upper bound to what people can handle. I mean, I am on Zoom a lot and I would say it's an essential part of my day, but I also recognize, and I think customers are recognizing that is not the only tool that we can lean on to actually conduct business. So I think this notion of asynchronous work, the ability to track something, mechanize something and not have to rely on a live conversation is very important. I think we are – as we talked about a couple of earnings calls ago, we talked about the phases, right? Phase one was react, support, make sure people are safe, synchronous, synchronous, synchronous. And now we're entering that phase of async is absolutely here and people are going to make investments in it.
+
+Mark Murphy
+
+Thank you.
+
+Operator
+
+Your next question comes from the line of Ryan MacWilliams from Stephens. Your line is open.
+
+Ryan MacWilliams
+
+Thanks for taking the question and congrats on the strong results. Great to see dollar-based net retention for customers with greater than 10,000 employees at 140% in the quarter. Can you talk about how retention for this segment trended during COVID and maybe how we should think about the retention rate for this segment in a more normalized year? Just could be helpful to calibrate the enterprise growth opportunity. Thanks.
+
+Pete Godbole
+
+Ryan, this is Pete. So the segment we reported, we showed a 140% net dollar retention rate. Like other segments, this segment was also hit in terms of where it started. And I would describe it as the effect was less pronounced compared to the segments which had lesser number of employees or smaller segments. So we saw that play out as the first part of it. And then going forward, I think it's hard to say how this is going to play out. We have built sort of some modest improvement into our guide as we've given that to all of you.
+
+Ryan MacWilliams
+
+I appreciate that. And Pete, once again, welcome on board. After strong results in the quarter, what's your thoughts on net free cash flow for this year as you look to capitalize on this enterprise opportunity with larger customers? Thanks.
+
+Pete Godbole
+
+So as I stepped into the job as CFO 90 days, I've really developed a level of confidence around the business. And I believe as I said the growth opportunity in the long-term requires a near-term investment. So our plan is to follow our philosophy of go after the long-term growth opportunity while keeping an eye on the free cash flow side of it. So if you looked at our model, I believe we have the – I'm confident our model has the ability to generate free cash flow at scale. And as you look at that going forward, we've actually guided to sort of a free cash flow improvement from minus 8% in fiscal year 2021 to half that at minus 5% of the midpoint of our guidance as a way to sort of express what I just called out.
+
+Ryan MacWilliams
+
+Appreciate the color. Congrats, again.
+
+Pete Godbole
+
+Thank you.
+
+Operator
+
+Your next question comes from the line of Brent Thill from Jefferies. Your line is open.
+
+Brent Thill
+
+Thanks. Mark you mentioned a very strong federal close. I'm curious if you could just walk us through the next chapter for federal. And when you look even outside the U.S., where are you seeing pockets of opportunity on the federal space?
+
+Mark Mader
+
+I think on the federal side, I had commentary on our year-over-year growth. And we did see nice progression throughout the year. One of the really big milestones for us was getting the IL-4 provisional authorization. We're going through the technical work to actually get the platforms connected now, so we can move to serving our first IL-4-based customer. And I think that sets a really good foundation for selling next year, right. So that's both on the agency side that sort of the – on the military side, as well as defense side, as well as on the non-defense agency front. So have high expectations for that again.
+
+I think in other growth markets for us, Pete alluded to the extension of our cloud platform over in Europe. We're seeing opportunity with larger cap European companies who I would say are more conservative around the data residency front. And I think having done all the work on moving to public cloud last year, the lift we have to achieve that this year is a far less. Still a lift, but we are really well positioned for that. So I would highlight those as probably the two biggest opportunities.
+
+Brent Thill
+
+And just Pete, just a quick follow-up. I think you mentioned 25% more headcount in the first half of the year. Can you just recap where you ended the full-year in terms of growth for the last fiscal year?
+
+Pete Godbole
+
+So I want to make sure I got your question, Brent. Are you talking about growth in billings? Are you talking about growth in revenue – in headcount, okay.
+
+Brent Thill
+
+I think in headcount, yes.
+
+Pete Godbole
+
+So our headcount for sales was about 360 heads. And essentially, when I was referencing the 25% growth, I was working off that number.
+
+Brent Thill
+
+Okay. And in the growth rate that from the last fiscal year, did you have that growth? If not, we can circle back and just wanted to be clear what the growth was on that?
+
+Pete Godbole
+
+So remember last year we had a growth profile which was similar, but in the middle of the year as the pandemic hit, we made the decision to stay with our capacity additions and stay point in our investment. So as we go into the next fiscal year, we are adding resources on top of a capacity model we built through the start of this year – through the start of fiscal year 2021.
+
+Brent Thill
+
+Okay. Great. Thanks for the color.
+
+Pete Godbole
+
+Of course.
+
+Operator
+
+Your next question comes from the line of Tyler Radke from Citi. Your line is open.
+
+Tyler Radke
+
+Hey, thanks for taking my question. I was wondering if you could kind of unpack the billings guidance for the full-year a little bit, obviously you're guiding to a nice reacceleration off of the growth you put up this year. And I imagine you're assuming churn rates kind of improve. There's probably some impact from the acquisition you made. But maybe just help us understand kind of what are the bigger factors driving that improved outlook, particularly the accelerated trajectory?
+
+Pete Godbole
+
+So we were really pleased with our billings performance in Q4, and it spoke to some of the indicators that are important to this business. As we’re thinking about this business in fiscal year 2022, there's two elements that are important. As you think of billings, you should think of them as renewals, expansions and new business. So we are feeling really bullish on the expansions and new business based on our Q4 performance and the trend we're carrying forward.
+
+On the renewals that creates – renewals from last year are based on bookings that we did in fiscal year 2021, which represents a renewable opportunity for us in fiscal year 2022 and therefore billings in fiscal year 2022. We look at that headwind we had in, what I call fiscal year 2021, and that's going to play itself out into our billings for fiscal year 2022. So on the sum of it, I would say, really positive on the new business and expansion billings and a headwind on the billings from last year that carry forward. Now that headwind will probably be more manifest in the first half of the year rather than the full-year and then sort of ease out or normalize.
+
+Tyler Radke
+
+Great. And I apologize if I missed it earlier. But just on some of the changes you're doing to pricing and packaging, is there any way to think about the impact of that, the potential benefit on that either this year or next year, if it's kind of a longer-term dynamic?
+
+Eugene Farrell
+
+Well I would say that we believe that removing friction and make it easier for customers to expand and leverage our premium capabilities to build solutions. I mean we’re making that investment because we believe it will accelerate growth and help customers, but we have not – we're not disclosing kind of what we think the impact of those individual changes would be on the growth rate, but it is built into our forecast right now.
+
+Tyler Radke
+
+Okay. Thank you very much.
+
+Operator
+
+That's all the time we have for questions. I'll turn the call back over to Aaron Turner.
+
+Aaron Turner
+
+Great. Thank you for joining us today everyone. We'll speak to you again next quarter.
+
+Operator
+
+Ladies and gentlemen, this concludes today's conference call. Thank you for participating. You may now disconnect.

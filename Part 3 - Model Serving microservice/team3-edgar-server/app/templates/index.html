@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+
+{% block head%}
+
+{% endblock %}
+
+{% block body %}
+<div>
+    <h1>Sentiment Analysis (use our API to predict sentiment of your data) </h1>
+
+    <form action="/predict" method="POST">
+        <div>
+            <p>Text</p>
+            <input type="text" name = "text_input" id="text_input">
+        </div>
+
+        <input type="submit" value="Predict">
+    </form>
+    <h2>Predicted: {{pred}}</h2>
+</div>
+{% endblock %}
