@@ -1,0 +1,21 @@
+# production
+#pyyaml
+numpy
+pandas
+scikit-learn
+flask
+gunicorn
+tensorflow
+tensorflow-hub
+tensorflow-datasets
+requests
+boto3
+gunicorn
+keras
+
+# dev
+coloredlogs
+black
+flake8
+
+# etc
