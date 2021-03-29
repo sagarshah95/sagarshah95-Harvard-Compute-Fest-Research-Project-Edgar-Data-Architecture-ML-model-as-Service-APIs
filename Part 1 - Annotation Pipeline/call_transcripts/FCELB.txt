@@ -1,0 +1,303 @@
+FuelCell Energy, Inc. (FCELB) CEO Jason Few on Q1 2021 Results - Earnings Call Transcript
+Mar. 16, 2021 4:05 PM ETFuelCell Energy, Inc. (FCELB), FCEL
+FuelCell Energy, Inc. (OTCPK:FCELB) Q1 2021 Earnings Conference Call March 16, 2021 10:00 AM ET
+
+Company Participants
+
+Tom Gelston - SVP, Finance and Investor Relations
+
+Jason Few - President, Chief Executive Officer and Chief Commercial Officer
+
+Mike Bishop - EVP, Chief Financial Officer and Treasurer
+
+Mike Lisowski - EVP and Chief Operating Officer
+
+Tony Leo - EVP and Chief Technology Officer
+
+Conference Call Participants
+
+Jeffrey Osborne - Cowen and Company
+
+Laurence Alexander - Jefferies
+
+Colin Rusch - Oppenheimer
+
+Jed Dorsheimer - Canaccord Genuity
+
+Noel Parks - Tuohy Brothers
+
+Aaron Spychalla - Craig Hallum
+
+Operator
+
+Ladies and gentlemen, thank you for standing by. And welcome to the FuelCell Energy's Q1 2021 Earnings Call. At this time, all participants are in a listen-only mode. After the speakers' presentation, there will be a question-and-answer session [Operator Instructions]
+
+I would now like to hand the conference over to your speaker today, Tom Gelston, Senior Vice President of Investor Relations. Thank you. Please go ahead, sir.
+
+Tom Gelston
+
+Thank you, Julien. Good morning and thank you for joining us on today’s call. As a reminder, this call is being recorded. This morning, FuelCell Energy released our financial results for the first quarter of fiscal year 2021 and the earnings press release is available on the Investor Relations section of our website at fuelcellenergy.com. Consistent with our practice, in addition to this call and press release, we have posted a slide presentation on our website. This webcast is being recorded and will be available for replay on the company’s website approximately two hours after we conclude the call.
+
+Before we begin our prepared comments, please direct your attention to the disclosure statement on Slide 2 of the presentation and the disclaimers included in the press release related to forward-looking statements. The discussion today will contain forward-looking statements, including without limitation, statements with respect to the company’s anticipated financial results and statements regarding the company’s plans and expectations regarding the continuing development, commercialization and financing of its FuelCell technology and its business plans. These forward-looking statements are intended to qualify for the Safe Harbor from liability established by the Private Securities Litigation Reform Act of 1995. All statements made on this call today other than statements of historical facts are forward-looking statements and include statements regarding our anticipated financial and operational performance.
+
+Forward-looking statements made on this call represent management’s current expectations and are based on information available at the time such statements are made. Forward-looking statements involve numerous known and unknown risks, uncertainties and other factors that may cause our actual results to differ materially from any results predicted, assumed, or implied by the forward-looking statements. We strongly encourage you to review the information in the reports we filed with the SEC regarding these risks and uncertainties, in particular, those that are described in the Risk Factors section on our Annual Report on Form 10-K and cautionary statements concerning forward-looking statements disclosed in our quarterly reports on Form 10-Q. You should also review the section entitled cautionary statements concerning forward-looking statements in this morning’s earnings press release.
+
+During this call, we will use non-GAAP financial measures when talking about the company’s performance and financial condition in accordance with SEC regulations, you can find a reconciliation of these non-GAAP measures to the comparable GAAP measures in this morning’s earnings press release and reconciliation document posted on the Investor Relations portion of our website.
+
+On our call today, I’m joined by Jason Few, FuelCell Energy’s President and Chief Executive Officer; and Mike Bishop, Executive Vice President and Chief Financial Officer and Treasurer. Following our prepared remarks, we will be available to take your questions and be joined by other members of the leadership team.
+
+With that, I'll now hand the call over to Jason for opening remarks. Jason?
+
+Jason Few
+
+Thank you, Tom, and good morning, everyone. Thanks for joining us on our call today. Each quarter we include a brief overview of the company shown on slide 3 for new investors. Taking a look at the full year fiscal 2020, which ended on October 31st, our total revenue grew by double digit to approximately $71 million. Our three largest categories service and licenses, advanced technologies and generation represent diversified sources of recurring revenue under multiyear contracts with investment grade customers. Consistent with our strategy, in future quarters, we expect the work we have done to rebuild our business development and go-to-market capabilities, recruit and onboard strategic talent and reenter and build client relationships and target global markets to yield growth including product sales.
+
+Consistent with our prior experience in certain markets, such as Korea, the largest fuel cell market in the world, select countries across Europe and other international markets, we expect some customers to choose to purchase our platform bundled with long-term service contracts that run coterminous with platforms like should our marketing efforts be successful. We are optimistic about the momentum behind the global energy transition that we expect to be enabled by distributed generation, distributed hydrogen, long duration hydrogen energy storage and carbon capture. At the top of the slide, we highlight many of our customers currently utilizing our multi featured fuel cell platforms. Many of these systems integrate combined heat and power capabilities, creating very high energy efficiency levels, while others installations form the backbone of micro grids enhancing resiliency and reliability and/or utilize biofuel resulting in carbon neutral to carbon negative power.
+
+Our platforms also have the ability to leverage multiple fuel types, a feature many customers are interested in. In addition, our carbonate fuel cell platform has the ability to deliver hydrogen through our Trigen platform. And we're developing a new capability of running our carbon and fuel cell in reverse or an electrolysis mode through a process known as Reforming, Electrolysis and Purification or REP. We believe that the distributed nature of our hydrogen platform can enable the hydrogen economy in advance of the midstream infrastructure availability. FuelCell Energy offers diversification across fuel cell technologies that enable solutions across multiple applications or jobs that need to be done.
+
+Additionally, as I will cover later in my remarks, we continue to advance the commercialization of our solid oxide fuel cell platform to produce hydrogen through highly efficient electrolysis, long duration hydrogen based energy storage, and zero carbon hydrogen power generation. We believe that these technologies can provide the firm capacity required to support intermittent renewable technologies, such as wind and solar, by converting the off peak energy occasionally generated by renewables, or excess energy produced in excess of demand into hydrogen that is stored and later set back to the same FuelCell Energy fuel cell stack to produce zero carbon power. Recently, the world watch the disruption and loss of life in Texas that caused by unavailability of power. FuelCell Energy is committed to delivering base load power installation across our carbonate and solid oxide platforms that can and have demonstrated their ability to reduce the likelihood of similar events in the future. We stand ready to support customers around the world.
+
+Next, moving to slide 4, I want to highlight our commitment to our purpose of enabling the world to live a life empowered by clean energy. We believe that all people around the world will increasingly need reliable always on power. The electric grid continues to evolve, but grid reliability remains a critical issue. We believe that FuelCell Energy is uniquely positioned to meet the reliability challenges with our broad product portfolio that can also assist with decarbonization goals. We don't subscribe to the notion that decarbonization has to mean de-industrialization, or the developing countries around the world can't participate in industrialized society. This purpose drives our strategic focus and the work we do.
+
+Turning now to the quarter, I have three overarching messages. The first is that we are continuing to make progress against our $1.27 billion backlog. As we execute our powerhouse business strategy by working differently and thus adds another 40.7 megawatts to our generation portfolio. Subsequent to quarter end with the addition of our new 2.8 megawatt PPA for our second project in Derby, Connecticut, our backlog has increased to 43.5 megawatts. We have completed the majority of our scope of work on the 7.4 megawatt project at the US Navy base in Groton, Connecticut. The company is currently awaiting the interconnection and other safety related work to be completed prior to the commissioning and commercial operations.
+
+The interconnection agreement for this project is a four party agreement and has taken longer than originally estimated to complete. FuelCell Energy looks forward to fortifying the power infrastructure supporting base resiliency, and the US Federal Government's defense critical electrical infrastructure objectives. Additionally, construction activity has been substantially complete for a 1.4 megawatt project at the San Bernardino, California Wastewater Treatment facility that will utilize onside biofuel to produce carbon neutral power. We're working with the local utility on the interconnection process prior to commissioning and commencing commercial operation. I want to provide a more color on interconnection for those less familiar with the process. Essentially, prior to being able to operate in parallel with the utility grid network, a series of studies such as a feasibility, distant impact and distribution studies are required to be performed by the appropriate local utility for distribution level interconnects or in some cases by the regional transmission organization for larger or grid connected projects.
+
+Before distributed electrical generation equipment is approved for connection to or operation in parallel with the grid, which is a requirement for commercial operation. These studies assess the addition of the power generation platform and its impact on the existing utility power system, as well as identify any interconnection facilities or network upgrades needed for interconnecting the platform to the utility grid. The lead time for this process can vary depending on a variety of factors, including the utilities ability to prioritize the studies, the technical complexity of the project site, and infrastructure work required by the utility prior to interconnection. We proactively manage every aspect of the interconnection process within our scope and responsibility to obtain interconnection as quickly as possible, while ensuring compliance with all safety and reliability requirements.
+
+As noted in the case of Groton, this work is being managed by a third party. We have also commenced construction on 24.5 megawatts of projects, including the 2.3 megawatt Trigen hydrogen platform that will deliver carbon neutral electricity, green hydrogen and produce water to Toyota at the Port of Long Beach. We believe our Trigen hydrogen platform is the only platform in the world that produces hydrogen and usable water in a single distributed platform. In addition, we are advancing our utility scale deployments in Yaphank, Long Island, New York and Derby, Connecticut. We were able to resume manufacturing with necessary safety enhancements at our Torrington Connecticut manufacturing facility in June of 2020. And we have established a phased and return to work schedule for those employees that have been working from home through this month.
+
+We continue to evaluate our ability to operate in light of recent resurgence of COVID-19 and the advisability of continuing operations based on federal, state and local jurisdiction requirements around the world, evolving data concerning the pandemic, the availability of vaccines, and the best interest of our employees, customers and shareholders. The second key message I want to highlight is the progress we've made toward bolstering our financial foundation, strengthening our liquidity and creating an opportunity to reduce our cost of capital. As we have previously disclosed during the quarter, we completed an additional equity offering resulting in net proceeds to the company of approximately $156 million. And third, I want to reiterate our goal of strengthening our leadership and sustainability and environmental stewardship. Customers around the world are increasingly looking for authentic, onsite and sustainable decarbonize energy solutions to address climate challenges, enhance grid reliability, and enable them to continue to operate their businesses without intermittent disruptions. To meet the growing global need for clean decarbonized energy, FuelCell Energy remains focused on developing and deploying our product portfolio solutions for some of the largest global energy opportunities.
+
+A recent technology milestone has been the commencement of operation and testing of our prototype SOEC or Solid Oxide Electrolysis platform in Danbury, Connecticut. Today, the platform has successfully and efficiently converting electricity and water into hydrogen. We also intend to continue to strengthen our leadership position in distributed generation, distributed hydrogen and carbon capture.
+
+And now I will turn the call over to Mike to discuss our financial results in more detail. Mike?
+
+Mike Bishop
+
+Thank you, Jason. Let's begin by reviewing financial highlights for the quarter shown on slide 7. In the first quarter of fiscal year 2021; we delivered $14.9 million in total revenue, a 9% decline compared to the first quarter of fiscal year 2020. The primary driver of the decrease was that the first quarter of fiscal year 2020 included $4 million of nonrecurring license revenues associated with our Joint Development Agreement or JDA with ExxonMobil Research and Engineering Company or EMRE related to carbon capture technology development.
+
+Looking at revenue drivers by category, Service and License revenues decreased 12% to $4.9 million from $5.6 million in the prior year period. Revenue recognized in the first quarter primarily includes revenue recorded for module replacements and routine maintenance activities. Whereas revenue recognized in the first quarter of fiscal year 2020 included nonrecurring license revenues of $4 million associated with our JDA with EMRE and $1.6 million associated with routine monitoring and maintenance activities for projects under service agreements. Generation revenues decreased 10% to $4.9 million due to a temporary shutdown of several of the individual plants at the Bridgeport fuel cell project for scheduled module exchanges in the quarter. Advanced Technology contract revenues decrease 3% to $5.1 million from $5.2 million. Compared to the first quarter of fiscal year 2020, Advanced Technology contract revenues recognized under the JDA with EMRE were approximately $300,000 higher during the first quarter of fiscal year 2021, reflecting continued advancement of our joint research with EMRE on fuel cell carbon capture solutions during the quarter.
+
+The increased revenues under the JDA were offset by $400,000 of less revenue recognized under government contracts in the first quarter of fiscal year 2021 compared to the first fiscal quarter of fiscal year 2020. Gross loss for the first quarter of fiscal year 2021 total $3.6 million compared to a gross profit of $3.3 million in the prior year quarter. Results for the quarter of fiscal year 2021 reflected no license revenues under the JDA during the quarter, as well as a temporary shutdown of several of the individual plants at the Bridgeport fuel cell project for module exchanges during the quarter and higher manufacturing variances and service related costs compared to the prior year period.
+
+Operating expenses for the first quarter of fiscal year 2021 increased to $10.8 million from $6.4 million in the first quarter of fiscal year 2020. Administrative and selling expenses in the first quarter of fiscal 2021 included additional stock based compensation expense of $800,000 tied to grants made in 2020, and an increase in the value of the deferred director compensation liability due to the increase in the company's share price. The first quarter of fiscal year 2020 included a legal settlement of $2.2 million, which was recorded as an offset to administrative and selling expenses.
+
+Research and Development expenses of $1.8 million during the quarter reflected increased spending on the company's hydrogen commercialization initiatives. Loss from operations totaled $14.4 million compared to $3.1 million in the prior year period. Net loss for the quarter totaled $46 million, compared to a net loss of $40.2 million in the first quarter of fiscal year 2020. Net loss attributable to common stockholders for the quarter totaled $46.8 million or $0.15 per basic and diluted share, compared to a net loss attributable to common stockholders of $41.1 million or $0.20 per basic and diluted share in the comparable prior year period.
+
+The lower net loss per common share, despite a higher net loss attributable to common stockholders is due to the higher weighted average shares outstanding from share issuances since January 31, 2020. The net loss per share in the first quarter of fiscal year 2021 includes the change in fair value liability associated with the warrants issued to lenders under our now extinguished credit agreement with Orion Energy Partners of $16 million, accounting for approximately a $0.05 per share impact on the reported net loss per share, compared to $34.2 million or $0.17 per share in the comparable prior year period. The net loss per share attributable common shareholders in the quarter ended January 31, 2021 also included a loss on the extinguishment of debt and the loss and extinguishment of preferred stock obligation of subsidiary together totaling $12.1 million, or a $0.04 per share impact on the reported net loss per share.
+
+Adjusted EBITDA totaled negative $7.4 million in the first quarter of fiscal year 2021 compared to adjusted EBITDA of negative $200,000 in the first quarter of fiscal year 2020. Please see the discussion of non-GAAP financial measures including adjusted EBITDA in the appendix of our earnings release. Prior to leaving the slide, I would know that the pictures on the right showcase the progress that we've made on the 7.4 megawatt platform at the Navy sub base in Groton, Connecticut.
+
+Next, please turn to slide 9 for additional detail on financial performance and our backlog. The chart on the left hand side of the slide graphically displays the numbers I walked through for the first quarters of fiscal years 2020 and 2021. Looking at the right side of the slide, we finished the quarter with backlog of approximately $1.27 billion, a decrease of 7% subsequent to the end of the quarter, the company entered into a 20 year Power Purchase Agreement or PPA with a Lime United Illuminating for a 2.8 megawatt project in Derby, Connecticut, awarded as part of the competitively bid state sponsored shared clean energy facility program. This platform will supply 2.8 megawatts of clean base load power to the Connecticut electric grid, enhancing resilience and is our second project located in Derby.
+
+This contract is not included in the company's backlog as of January 31, 2021, but is expected to add $59.4 million in future revenue to the company's reported generation backlog going forward.
+
+Turning to slide 9, I would like to highlight the steps taken as part of our powerhouse business strategy to provide additional liquidity with the goal of enabling us to focus on the execution of our business plan., including building out our backlog of generation projects, commercializing our advanced hydrogen technologies and expanding our go-to-market activities. As of January 31, 2021, cash, restricted cash and cash equivalents totaled $209.6 million, of which $31 million was restricted cash and cash equivalents represented by the green bars. During the quarter, we completed an equity offering resulting in the net proceeds to the company of approximately $156.4 million. This offering allowed us to extinguish our senior secured credit facility with Orion Energy Partners, and to pay off the Series 1 Preferred Share obligation that one of our subsidiaries owed to Enbridge Inc.
+
+The net proceeds from the offering may also be used to accelerate the development and commercialization of our solid oxide platform and for project development, project financing, working capital support and general corporate purposes. In addition, our improved capital structure provides for lower interest expense, the elimination of the Series 1 Preferred dividends, and increased flexibility of project financing. On the right side of the slide, we have included a chart illustrating our total project assets, which make up for our company owned generation portfolio. Investments today include capital spent towards completed projects, as well as inside development projects.
+
+As of the end of the first quarter of fiscal year 2021, our gross project assets totaled $197.5 million. As itemized on slide 21 in the appendix of this presentation, our generation portfolio totaled 73.3 megawatts of assets as of January 31, 2021. As projects in development come online, such as the Groton 7.4 megawatt platform that I previously highlighted, they are expected to contribute higher revenue and adjusted EBITDA. Higher revenue and positive adjusted EBITDA are two aspects of our goals described on slide 16 in this presentation. Also, as projects become operational, we expect to execute long-term financing at efficient cost of capital, thus recycling cash back to the company to redeploy into other projects or growth development activities.
+
+In closing, we are pleased with the progress that we've made under our powerhouse business strategy. We have a strengthened financial foundation, allowing us to focus on driving commercial availability of our advanced technology solutions, including distributed hydrogen, electrolysis, and hydrogen production, and long duration energy storage, and to focus on expanding our geographic markets while also executing on our plans to deliver on our project backlog.
+
+I will now turn the call back over to Jason.
+
+Jason Few
+
+Thanks Mike. As mentioned previously, we are near completion of two new power platforms one at the US Navy base in Groton, Connecticut, and one zero carbon biofuel platforms at the wastewater treatment facility in San Bernardino, California. Our SureSource 1,500 and SureSource 3,000 power platforms are the only fuel cell systems certified to carbon emission standards under the distributed generation certification program for operations with onsite bio gas. We also began early stage construction of 24.5 megawatts of projects including the Toyota Hydrogen project at the Port of Long Beach, and utility scale projects in Yaphank on Long Island in New York and Derby, Connecticut.
+
+We are also advancing the development of new technologies including operating and testing a prototype solid oxide electrolysis hydrogen platform in Danbury, Connecticut, and continuing to advance our joint research with EMRE on fuel cell carbon capture solutions.
+
+Turning to slide 11; I want to take a moment to highlight the strong resiliency characteristics of our shore source platform. As I mentioned earlier, recent headlines in Texas surrounding extreme weather, as well as continued challenges for grid reliability in markets such as California, or the extreme freeze in Greece in the UK in February, continue to expose the inherent challenges of a long distance transmission based grid. In cities across America, governments and utilities alike are hopeful any infrastructure package contemplated by Congress in the new administration will include funding to upgrade today's grid with reliable distributed megawatt scale power platforms. Our platforms not only run 24x7x365 but have demonstrated their performance stability during some of nature's more extreme conditions. Highlighted on the chart to the left are numerous examples where our shore source platforms operated seamlessly and prolonged instances of extreme temperatures providing universities, industry credible resources and the broader utility grid with reliable power?
+
+On the right is an example of one of these installations, a shore source 3,000 located on the campus of the University of California, San Diego, as part of a micro grid solution, it helps provide energy security to more than 40,000 students on its approximate 1,000 acre campus. And beyond power, the University uses the thermal attributes of our platform with a heat exchanger being used to drive absorption chiller to provide cold water to the campus. This installation along with our micro grids installed at the jail in Santa Rita California, are highlighted by the magazine micro grid knowledge as being two World Class examples of micro grids that deliver on their promise of always on power, having continued to provide power during public safety, power shut offs in their respective areas.
+
+On slide 12, I want to again remind everyone of the four major market opportunities that FuelCell Energy is pursuing. Distributed generation, distributed hydrogen and long duration storage, and carbon capture. We believe that each of these has a very large total addressable market opportunity for which we are working to position the company to benefit. We continue to advance research and development of our carbonate fuel cell platforms efficiency, capturing carbon from an external source, while also producing power. Our proprietary carbon capture solution is the only solution that we know of that captures carbon from an external source and produces power rather than consuming it, and is also capable of producing hydrogen for distributed applications. We also can directly capture carbon from our own shore source power platform for carbon utilization and/or sequestration.
+
+I also want to take this opportunity to spend more time on our hydrogen focus, including technology in the process of being tested, and advanced for commercialization.
+
+So turning to slide 13, you will see a visual illustration of how FuelCell Energy will deliver hydrogen across three of our platforms. Our carbonate platform, featured on the right side of this line allows us to deliver hydrogen through our Trigen hydrogen platform. The first half of the word Trigen is important because the platform delivers three value streams to our customers. First, it delivers power. Second, it produces hydrogen, and third, it actually produces water while delivering hydrogen. Adding more value in areas where water for electrolysis is at a premium, which as previously stated, we believe makes it the only platform in the world that produces water and hydrogen.
+
+The Trigen platform can deliver green, blue and grey hydrogen. We're in the process of building the first commercial installation of this platform for Toyota at the Port of Long Beach today. When the coproduction of power is not required, our carbonate platform is being developed to produce green, blue or grey hydrogen through a reformer electrolyzer purifier process, RREP. Our solid oxide technology pictured here on the left side of this slide, which we are advancing to commercialization is designed to produce green, blue and grey hydrogen through highly efficient, high temperature electrolysis. In addition to our solid oxide fuel cell being designed to be highly efficient, operating at a high temperature, and having the ability to leverage waste to achieve even higher efficiency, it is designed to operate in reverse mode.
+
+The same platform stack used to convert electricity and water into hydrogen is reversible solid oxide mode will produce zero carbon power using the stored hydrogen. So one might ask why three platforms? The answer is simple. Customers want to accomplish different objectives and need to get different jobs done. Each location will have a unique pricing environment for fuel and electricity. In markets with higher power prices, our Trigen platform might be the best solution if you can sell the electricity into the grid at higher prices, which reduces the cost of the produced hydrogen, or perhaps local water is in scarce supply or is at a premium.
+
+We expect our developing REP platform to work well across various fuel and electric price environments and in environments where selling power to the grid is not an option. And it should be uniquely situated to carbon capture applications to produce blue hydrogen. With our solid oxide platforms high efficiency, design and expectation to leverage waste, it is expected to be well suited for low energy price environments and environments with high penetration of intermittent renewable energy resources. The breadth and depth of our developing technology portfolio positioned FuelCell Energy to deliver distributed hydrogen across several environments around the world. The flexibility we expect to provide around distributed platform, source and price of hydrogen will enable us to add value in almost all energy segments globally.
+
+The versatility of our developing platform configurations allow FuelCell Energy to serve transportation, industrial, natural gas decarbonization and substitution, repowering existing power infrastructure, and serving as a stationary power generation source and other processes not suited for electrification.
+
+Slide 14 provides a more detailed overview of our solid oxide platform. The prototype unit pictured here is a system currently operating in our Danbury Connecticut headquarters for testing of various platform design elements. This year, we will build a larger version of this solid oxide electrolysis fuel cell for delivery to the Idaho National Labs under a cooperative funding agreement with the US Department of Energy. The deal we project will incorporate a multi stack electrolysis system utilizing our solid oxide technology. The system will also be equipped with an option to receive thermal energy, thus expected to increase the electrolysis electrical efficiency from about 90% to approximately 100%. Following the design, manufacture and testing of the system at FuelCell Energy facilities, the electrolysis system will be delivered to Idaho National Laboratories, where it will undergo rigorous testing to confirm the electrical efficiency as well as the ability to utilize nuclear power plant waste to obtain higher efficiencies of up to 100%.
+
+This project represents a key step in FuelCell Energy's path to commercialize our high temperature, high efficiency solid oxide electrolysis technology. The multi stack module that forms the core of the system is a modular building block easily scalable for larger systems, we believe up to gigawatt scale.
+
+On slide 15; next I want to briefly review our powerhouse business strategy, which is based on the three core pillars of transform strengthening grow. When we introduced the powerhouse business strategy, we provided our plan to reposition FuelCell Energy to capitalize on the energy transition. The powerhouse business strategy serves as the guideposts for the turnaround we are architecting at FuelCell Energy. Like with most turnarounds, it takes time, we are approximately 15 months in our journey, and we are pleased with our progress today. The first phase of our plan was to transform the company to build a durable financial foundation and enhanced financial results. We have taken a number of important steps to strengthen the balance sheet, allowing us to finance completion of new projects and lower cost of capital.
+
+Currently, we are focused on strengthening stage of our strategy by driving operational excellence throughout the business and making capital investment decisions that further enhance our performance and advanced product commercialization. And our third pillar to fully deliver on the powerhouse business strategy we outlined is achieving growth over the long term by seeking to penetrate markets and customer segments where our technology platforms can be the preferred solution. Our production operations are well positioned for further capacity expansion, and will generate operating leverage as we ramp our production rate in support of future business growth. And support of our growth goal to achieve geographic market expansion including Europe, FuelCell Energy has announced it is joined Hydrogen Europe, the leading European Association representing the interest of the hydrogen and FuelCell Energy and its stakeholders reinforcing our commitment to the European market and providing a platform for European customers to better understand the value of our broad platform portfolio.
+
+We're proud to join a community of companies working to significantly advance and accelerate the hydrogen economy. While we are headquartered in the US, we operate a manufacturing and service center in Germany that services the broader European market.
+
+Turning to slide 16, we will continue to work toward our long-term targets and goals that we established with the launch of our powerhouse business strategy looking ahead to fiscal year 2022. Reaching these targets to require successfully executing against our approximately 41 megawatt project backlog, and advancing commercial operations for each of those projects, which are expected to deliver recurring revenue through power generation and long-term service agreements. As I have explained in today's presentation, we are pursuing commercialization of our advanced technologies around REP in solid oxide hydrogen, and extending our carbon capture platform for solutions for capturing carbon from external sources, and internally from the fuel cell, each of which offers potential growth opportunities for our company.
+
+I will conclude my remarks today by reviewing key investment highlights for FuelCell Energy on slide 17. We have executed several strategic actions that strengthen our balance sheet by repaying debt, enhancing liquidity and reducing our cost of borrowing, which we believe positions the company to execute on our growth strategy. We have a strong multi discipline team across our company that is focused on taking care of our customers achieving financial milestones, executing on our backlog, winning new business globally, advancing commercialization of our differentiated platform solutions, driving down the total cost of customer ownership, and continually building upon our operational excellence, while adhering to our core purpose.
+
+We possess a portfolio of innovative technologies that contribute to the global goals of decarbonizing the grid, developing the hydrogen economy, and supporting existing energy and industrial infrastructure investment with a set of differentiated carbon capture solutions. We're working to implement our powerhouse strategy to strengthen our business, maximize operational efficiencies and position us for long-term growth. We appreciate many of you who track our progress and look for mile markers that illuminate the progress we're making toward the achievement of our powerhouse business strategy. As I previously stated, we're just 15 months into our power hour strategy, and we believe we are on track. The breadth of our portfolio and the ability to apply our technology against a wider set of applications provides FuelCell Energy with greater optionality to shift focus towards 81 of our four energy transition focus areas based on the pace of market adoption, thus increasing diversification.
+
+Finally, we intend to be a leader in sustainability, and environmental stewardship by delivering on sustainability through our technology, and the full circular life of our platforms. We look forward to the year ahead.
+
+I will now turn it over to Julien to begin Q&A. Given the number of people in the queue, we asked you limit your question to one and rejoin the queue if you have any follow ons. Thank you. Julien?
+
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions]
+
+Your first question will come from Jeffrey Osborne from Cowen and Company.
+
+JeffreyOsborne
+
+Good morning, guys. I was wondering if you could flesh out a little bit more detail on the solid oxide electrolysis opportunity that you're testing and Danbury, I wasn't sure what the next steps are, and then how we think about the timeline to commercialization. And when you can start participating in REPs for that -- fully recognized, there are some incremental steps that need to be taken from here, but I was just wondering if we could sort of book in that and how long it will take.
+
+JasonFew
+
+Hey, Jeff, great, good to have you on the call today and thanks for joining. Great question. Maybe I'll start and then I'll ask Tony Leo, our Chief Technology Officer to also chime in. So with this test we will lead to the next phase of actually executing the test with INL, will be the next phase of our process to get to commercialization. But as we think about the opportunity to your question of participate in REPs, given where we are and where some of these REPs or at least projects that people are talking about are kind of longer dated projects; we will participate in some of those opportunities if those timelines fit our internal projections about when our product will be commercial. But Tony, if you have anything else to add there for the phases?
+
+TonyLeo
+
+No. I'll just add the phases. The test we're doing now is with a single stack and sub scale system. And it's, we're developing the basic operational approaches that we'll be building into the logic of the multi stack system that we're building for INL later this year. So the stepwise process and we're happy with where we are right now.
+
+JasonFew
+
+Jeff, I just said we're really excited about the test we're running here and the results that we're seeing and we feel good about our progress.
+
+Operator
+
+Your next question comes from Laurence Alexander from Jefferies.
+
+LaurenceAlexander
+
+Good morning. Can you characterize the amount that your bidding activity has changed over the last three or six months? And what your kind of bandwidth for new project sales like what would be kind of the points that we can say you're stretching your limits?
+
+JasonFew
+
+Laurence, good morning. How are you? Thanks for joining the call this morning. If bidding activity, if you mean by that the amount of activity we're participating in terms of proposals or submitting proposals or responding REPs, I would say over the last, six months, it has increased fairly significantly for us. I mean, the sales cycle generally, given our megawatt class platforms generally take between 12 to 18 months as a sales cycle. But we've seen, a lot of increase activity not only here domestically, but in the international markets that we're focused on. And so we're, as I think about it, and look at the pipeline and as we go through our phases in the pipeline from engaging a customer, ultimately to submitting a proposal. I think we're making a lot of progress there. And I feel good about the pipeline. And I feel good about the number of opportunities we have in the proposal phase.
+
+With respect to the number of projects that we could pursue, we -- if you think about what we do in terms of our carbonate platform, as we talked about, and maybe Mike Lisowski speak to a little bit in terms of how we're ramping our manufacturing capacity to meet the demand that we see. But the things that we're doing in regards to some of our European opportunities, we have our facility in Germany, which also gives us some capacity. And then the work that we're doing on solid oxide, that work is done between our facility in Calgary and our facility here in Danbury, so those projects aren't really competing against our capabilities to produce our carbonate platform and meet the opportunities that we've responded to from an REP or proposal standpoint. Mike, do you want to [Indiscernible] where we are in terms of production.
+
+MikeLisowski
+
+Jason, thank you. And Lawrence, thank you for your question. So relative to support a backlog and future business growth, we're really well positioned holistically across the business, both from a supply chain perspective and continuity and supply of materials from a labor and talent position, as well as production capacity. And we've been working very hard across our teams and thoughtfully adding strategic capacity in locations across our factory where they're needed, working to establish enhanced yield, and continue to expand at throughput. So we're feeling very confident about where we're positioned today, and where we're headed for future business growth.
+
+JasonFew
+
+And I would just add, Lawrence, in our factory, we have expandable capacity in our factory, we also have the ability to add additional shifts. So we feel really good about our ability to meet demand.
+
+Operator
+
+Your next question comes from Colin Rusch from Oppenheimer.
+
+ColinRusch
+
+Thanks so much, guys. And well done on getting the balance sheet restructured. It sounds like you've got a number of important technology programs underway. And even with the partnerships, it looks like you may need to be spending a bit more on R&D. So wondering if you could talk a little bit about how that spend is expected to trend and the skills that you might need to add to the team?
+
+JasonFew
+
+Yes, Colin, good morning. Thank you. I'll ask Mike bishop to comment on that with respect to the increased capital that we're putting toward R&D to support commercialization of these technologies. And from a, I'll just maybe speak to the skill set, and maybe Tony could add to as well. We feel really good about the technical resources we have on our team across engineering to support our R&D efforts. And that's inclusive of the work that we're doing with respect to carbon capture with EMRE from Exxon, the Exxon Research effort that we have going on. But Mike, you want to talk a little bit about how we're allocating additional capital.
+
+MikeBishop
+
+Yes. Good morning, Colin. Thanks for joining the call. So what we put out there when we put our 10-K out was, we do expect to see higher on the OpEx side, we do expect to see higher R&D spending around distributed hydrogen, hydrogen and long duration hydrogen storage. Last year, we reported about $4.8 million of R&D expense. We're forecasting between $18 million to $20 million of R&D expense from a CapEx perspective this year and adding manufacturing equipment and lab equipment were forecasted to be in the range of $5 million to $10 million of CapEx.
+
+ColinRusch
+
+All right, that's super helpful and then just a follow up as you build up the project pipeline. There's been a tight labor market, we've seen an increased commodity prices, could you just talk a little bit about any potential extension on timelines to completing construction, and any sort of CapEx adjustments that you might need to make given some of those labor and commodity prices?
+
+TonyLeo
+
+Colin, we're not seeing any impact from a labor standpoint relative to the construction side of our in flight projects. And we're not really forecasting an impact there; it's something we continue to monitor. Mike Lisowski is on top of that manages that, very, very tightly. We also aren't seeing any impacts in terms of material supply to the company and our ability to manufacture product in order to meet the demand that we have for in flight projects. So we're not having that experience today as a company.
+
+Operator
+
+Your next question comes from Jed Dorsheimer from Canaccord Genuity.
+
+JedDorsheimer
+
+Hi, yes. Question follows up so I guess my question, if I look at the maybe this is a Tony or Jason question. So if I look at the Trigen in adding the capture, how should we think about this in terms of reduction of efficiency by adding that additional capture methodology in that to go from grey to blue?
+
+JasonFew
+
+So if you think about Trigen, if you count the energy value that hydrogen re-produces our efficiency actually goes up. It's quite high. Now if you add, and of course, for our Long Beach project, we're using directed bio gas. So that's zero carbon to begin with. If you're using natural gas and add carbon capture, you will probably -- you'll obviously you'll have to power that carbon capture equipment to some extent. So our 2.8 megawatt system in Trigen mode is 2.3 megawatts, you would probably go down to something like 2.1 with carbon capture.
+
+JedDorsheimer
+
+That's really helpful.
+
+TonyLeo
+
+And Jed, this is Tony, just to clarify that I think the -- what you're powering there is really like compression to liquefy the co2. It's not our carbon capture equipment; it's the external equipment you need to liquefy the carbon [Indiscernible]
+
+JedDorsheimer
+
+Great. And just as a follow up on operationally, I guess, I'm assuming that there's a point in terms of showing the progress and highlighting the Groton sub base, which seems like it's progressing nicely. So congrats on that. I guess I just want to understand the conversion from backlog into the recognition of those revenues and kind of that switch into the portfolio. So maybe if you could just, and maybe I missed it, but if you could articulate time expectations in terms of what needs to occur for completion and rev rec on that project. That would be helpful. Thanks.
+
+JasonFew
+
+So maybe I'll start and then Mike Lisowski, Mike Bishop can chime in, just in terms of where we are in the process. Like I indicated in my remarks, we are materially complete with our portion of the work though with exception of getting the interconnection done and some other safety work that has to happen. So we haven't given an exact date simply because the interconnection agreement, like I indicated, is being managed by a third party. But maybe I'll ask Mike Lisowski to speak to that a little bit. But then from the point of getting interconnect and us going COD, is when we would start to generate revenue from that asset for the company. But Mike, do you want to talk about --
+
+MikeLisowski
+
+Yes, Jed, thank you for your question, just to provide a little bit more color around the project. Yes, despite some challenges, I'm really proud of the team and all the progress that's been realized in reaching our current advanced stage of project execution at the Groton site. As Jason has mentioned, all of the sites civil construction has been completed, all of the required equipment and materials have been fabricated and delivered to the site. All the mechanical assembly construction is complete at this point with the majority of the electrical installation completed as well. Right now we're in the process of discrete equipment checkout and safety related work as part of the commissioning process. And once we complete that plant commissioning process, we'll be well positioned to export power once interconnect is executed and finalized. And as Jason mentioned, that's the point at which it would convert into revenue generating assets.
+
+MikeBishop
+
+And Jed, this is Mike Bishop. I'll add one more point on the revenue side. And as I tried to highlight in my comments, our generation portfolio is the biggest portion of our revenue backlog. It's about $1.1 billion. Today, we have operating about 30 megawatts of operating assets and as we said in our remarks, we're in the process of building out another 40 plus megawatts of assets. So if you think about that operating portfolio, last year, we generated about $20 million of annualized revenue. Well, we're more than doubling the operating portfolio here over the next period of time as these projects, come online, so they'll begin to make meaningful contributions to increasing our generation revenue as they come online.
+
+Operator
+
+Your next question comes from Noel Parks from Tuohy Brothers.
+
+NoelParks
+
+Hey, good morning. I was thinking back to the Exxon JV. And Exxon in their Investor Day a couple of weeks ago talked a good bit about how central carbon capture was to their various green initiatives. And I was just wondering if you could talk a little bit more about in the event there, there are new technologies that you aren't directly involved in introducing to the JV and for instance, on their call, they mentioned some progress with material technology as far as carbon capture from a gas stream. And I just wonder are those sorts of things do you have some access to those or is there some provision in your agreement where you would be able to get access to other things that they in the course of the JV?
+
+JasonFew
+
+Yes. So good morning. Let me try to start that. And then I'll ask Tony, maybe to chime in. So as a company, we are an as the joint development agreement to that we have in place with Exxon is very focused on our carbonate fuel cell technology. And what's compelling about the carbonate fuel cell technology are some of the things I mentioned in my comments that it's the only platform that we're aware of, that has the ability to capture carbon from an external source, produce more power at the same time, and deliver hydrogen from that same platform. That is the focus of our work with Exxon, and we believe that those differentiating attributes creates a very compelling proposition for Exxon and for carbon capture overall. And Exxon has a research organization inside their company, and they look at various technologies, but we're very focused on optimizing our carbonate technology to deliver against that.
+
+And look, we also support the notion that in order to achieve the global sustainability goals, right, carbon capture has to be a part of that. And that the goal of reducing carbon or overall climate sustainability goals, should not be deindustrialization. And if deindustrialization is not one of the goals, which I don't think it is, then that means carbon capture has to be an important part of the solution. In addition to doing things like fuel substitution, like Hydrogen for example. And so we think we're well positioned to participate in all of those. And then Tony, I don't know if you have any additional comment relative to other technologies that Exxon is working on but that would not relate to us.
+
+TonyLeo
+
+Yes, I mean, they're, for example, they're looking at direct air capture that is a carbon capture approach that is trying to solve a different problem than the problem of capturing co2 from the fuel gas or boilers or power plants. So they've got a comprehensive approach, a lot of the stuff they're doing has no bearing on us whatsoever. And as Jason said, we're very focused on our particular approach to carbon capture, which Exxon obviously, are interested in.
+
+JasonFew
+
+And I would just say if you look at other technologies, for example, just take direct air capture, right? Again, one of the significant differences we have versus direct air capture, direct air capture requires a lot of power to operate that technology, whereas we're additive to the power as opposed to being a parasitic on the power output.
+
+Operator
+
+Our last question will come from Eric Stine from Craig-Hallum.
+
+AaronSpychalla
+
+Good morning. It's Aaron Spychalla on for Eric, thanks for taking the questions. Hello, first, on the generation segment. Mike, I think you talked about a little bit on the module exchanges, can you just give us an update on kind of the margin outlook there is it still 50% plus, as we start to move some of these projects into that bucket? And then maybe just an update on extending the stack life there as well.
+
+MikeBishop
+
+Sure. Good morning, Aaron. Yes, so maybe I'll take the last one first so the company has talked over the last several years about evolving the module life from five years to seven years. So any module exchange that we now do in the fleet has a seven year life and obviously extending stack life is a key tenet of our R&D activities. Specific to the generation portfolio and what I mentioned on Bridgeport, Bridgeport is a 15 megawatt projects multiple plants at Bridgeport. So over the last couple of quarters, we have been doing module exchanges there with the goal of obviously extending life, as I just mentioned, but also increasing output. You would expect as we go through these to see higher revenue coming from that project. Specific to EBITDA, we have said externally that we do target EBITDA margins from our overall generation portfolio in the 50% range.
+
+We have been below that the last couple of quarters the EBITDA up percentage, I believe, last quarter was in the 31% range, this quarter it's higher in the 44% range. And obviously with higher revenue and improved operating performance, we would expect that to increase over time.
+
+Operator
+
+We have no further questions. I'd like to turn the call back over to Jason Few for closing remarks.
+
+Jason Few
+
+Julien, thank you very much. And thank you again for joining us today. We will continue to work to execute on our powerhouse business strategy and deliver profitable growth and optimize returns. The FuelCell Energy team is excited about our work to deliver on our purpose to enable the world to live a life empowered by clean energy. And we are committed to delivering long-term shareholder value. And as someone who has spent most of his adult life in Texas, I want to offer my prayers and support to the families impacted by the recent winter storm. Thank you for joining and have a great day.
+
+Operator
+
+Ladies and gentlemen, this concludes today's conference call. Thank you for your participation. You may now disconnect.
